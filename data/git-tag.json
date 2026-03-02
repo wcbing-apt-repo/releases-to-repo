@@ -14,7 +14,7 @@
     "foliate": "3.3.0",
     "caddy": "v2.11.1",
     "hiddify": "v4.0.4",
-    "code-server": "v4.109.2",
+    "code-server": "v4.109.5",
     "dbeaver-ce": "25.3.4",
     "tinyrdm": "v1.2.6",
     "joplin": "v3.5.13",
@@ -46,7 +46,7 @@
     "onlyoffice-desktopeditors": "v9.3.0",
     "grpcurl": "v1.9.3",
     "systemd-manager-tui": "v1.2.4",
-    "cherrystudio": "v1.7.19",
+    "cherrystudio": "v1.7.22",
     "tinygo": "v0.40.1",
     "draw.io": "v29.5.2",
     "ulauncher": "5.15.15",
@@ -55,6 +55,6 @@
     "yazi": "v26.1.22",
     "cn.classisland.app": "2.0.0.2",
     "waveterm": "v0.14.0",
-    "fresh-editor": "v0.2.11",
+    "fresh-editor": "v0.2.12",
     "cryptomator": "1.18.0"
 }
