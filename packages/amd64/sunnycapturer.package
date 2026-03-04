@@ -1,0 +1,15 @@
+Package: sunnycapturer
+Architecture: amd64
+Version: 3.2.0
+Priority: optional
+Section: devel
+Maintainer: XMuli <xmulitech@gmail.com>
+Installed-Size: 103615
+Filename: https://github.com/XMuli/SunnyCapturer/releases/download/v3.2/SunnyCapturer_3.2.0_x64.deb
+Size: 41727480
+MD5sum: 0da47f884ed1bef4c0e5930a1f3f0c42
+SHA1: c79d37150924f10ad74ba6007e41e22b53c374f3
+SHA256: 7f74f9d356585135864cac258da48ec58fd43d0813832d641b0c1f7b24e4a04a
+SHA512: 9b36223ee0e05c79be56ea402bde9a8950c3298666a46a1de93c65cf997c853416f318f6cf87874fa84b3dc60ad9d576718d51bdc8c4f5e1abe3c018d8cf1790
+Description: SunnyCapturer is a simple and beautiful cross-platform screenshot software that supports OCR to extract text from images, image translation, and pinning images to the screen, among other features.
+

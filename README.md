@@ -43,7 +43,6 @@
 | [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
-| [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |
 | [Trippy](https://github.com/fujiapple852/trippy) | trippy | ✅ | |
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 | [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
@@ -83,3 +82,4 @@
 | [MarkText](https://github.com/marktext/marktext) | marktext | ✅ | |
 | [Yolx](https://github.com/uiYzzi/Yolx) | yolx | ✅ | |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | | ✅ |
+| [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |

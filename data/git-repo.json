@@ -240,12 +240,6 @@
             "arm64": "bottom_{version}-1_arm64.deb"
         }
     },
-    "sunnycapturer": {
-        "repo": "XMuli/SunnyCapturer",
-        "file_list": {
-            "amd64": "SunnyCapturer_{version}_x64.deb"
-        }
-    },
     "trippy": {
         "repo": "fujiapple852/trippy",
         "file_list": {
