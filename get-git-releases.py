@@ -82,7 +82,7 @@ def scan(name, arch, url, file_path) -> bool:
     package = scan_process.stdout.decode()
     package = re.sub(
         r"^(Filename: ).*", f"\\1{url}", package, flags=re.MULTILINE
-    )  # 替换 Filename 开头的行
+    )  # 替换 Filename 开头的行为完整下载路径
 
     package_file_path = os.path.join(CONFIG["packages_dir"], arch, f"{name}.package")
 
@@ -125,7 +125,6 @@ def check(name: str, repo: dict, tag_list: dict) -> None:
 
         # download and scan
         logging.info(f"Downloading {name}:{arch} ({releases_tag})")
-        os.makedirs(os.path.join(CONFIG["deb_dir"], arch), exist_ok=True)
         if not download(url, file_path):
             continue
         logging.info(f"Downloaded {name}:{arch} ({releases_tag})")
@@ -141,7 +140,7 @@ def check(name: str, repo: dict, tag_list: dict) -> None:
             old_file_path = os.path.join(
                 app_dir, format_release_filename(template, local_tag)
             )
-            if os.path.exists(old_file_path):
+            if old_file_path != file_path and os.path.exists(old_file_path):
                 os.remove(old_file_path)
         # 更新版本号
         with tag_lock:
