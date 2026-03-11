@@ -41,11 +41,17 @@ jobs:
           git commit -m "[CI] Update packages"
           git push
 
-      - name: Generate Packages and Release files
+      - name: Generate Packages and Release files, import GPG key and sign Release
         if: steps.changes.outputs.changed == 'true'
         run: |
           cat $(find packages -name "*.package") > Packages
           apt-ftparchive release . > Release
+          if [ -z "${{ secrets.GPG_KEY }}" ]; then
+            echo "Error: GPG_KEY secret is not set"
+            exit 1
+          fi
+          echo "${{ secrets.GPG_KEY }}" | gpg --import
+          gpg --yes --clearsign -o InRelease Release
 
       - name: Set release name
         if: steps.changes.outputs.changed == 'true'
@@ -61,5 +67,6 @@ jobs:
           files: |
             Packages
             Release
+            InRelease
           # 使用脚本产生的 release_notes 文件作为 Release 的正文
           body_path: release_notes
