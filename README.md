@@ -36,6 +36,7 @@
 | [hugo](https://github.com/gohugoio/hugo) | hugo | ✅ | ✅ |
 | [Joplin](https://github.com/laurent22/joplin) | joplin | ✅ | |
 | [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | koodo-reader | ✅ | ✅ |
+| [Kula](https://github.com/c0m4r/kula) | kula | ✅ | ✅ |
 | [LocalSend](https://github.com/localsend/localsend) | localsend | ✅ | ✅ |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |

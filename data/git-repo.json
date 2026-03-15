@@ -186,6 +186,13 @@
             "arm64": "Koodo-Reader-{version}-arm64.deb"
         }
     },
+    "kula": {
+        "repo": "c0m4r/kula",
+        "file_list": {
+            "amd64": "kula-{version}-amd64.deb",
+            "arm64": "kula-{version}-arm64.deb"
+        }
+    },
     "localsend": {
         "repo": "localsend/localsend",
         "file_list": {
