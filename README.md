@@ -43,6 +43,7 @@
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |
 | [Neovim/Nvim](https://github.com/neovim/neovim-releases) | neovim | ✅ | |
+| [网易云音乐 - Web 版](https://github.com/elysia-best/netease-cloud-music-web) | netease-cloud-music | ✅ | ✅ |
 | [Obsidian](https://github.com/obsidianmd/obsidian-releases) | obsidian | ✅ | |
 | [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 | [Pandoc](https://github.com/jgm/pandoc) | pandoc | ✅ | ✅ |

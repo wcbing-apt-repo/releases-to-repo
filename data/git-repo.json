@@ -233,6 +233,13 @@
             "amd64": "nvim-linux-x86_64.deb"
         }
     },
+    "netease-cloud-music": {
+        "repo": "elysia-best/netease-cloud-music-web",
+        "file_list": {
+            "amd64": "netease-cloud-music_{version}_linux_amd64.deb",
+            "arm64": "netease-cloud-music_{version}_linux_arm64.deb"
+        }
+    },
     "obsidian": {
         "repo": "obsidianmd/obsidian-releases",
         "file_list": {
