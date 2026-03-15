@@ -1,0 +1,21 @@
+Package: netease-cloud-music
+Architecture: arm64
+Version: 2.0.4
+Priority: optional
+Section: default
+Maintainer: elysia-best <a.elysia@proton.me>
+Installed-Size: 295003
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/elysia-best/netease-cloud-music-web/releases/download/v2.0.4/netease-cloud-music_2.0.4_linux_arm64.deb
+Size: 100841860
+MD5sum: 5eee48386d6284663d1a0d31421d9d64
+SHA1: 3fea72f4985dad7917ab9b2c67c215b508d24961
+SHA256: 8bf4ef87df3567525f184e3203aa5a6efc2469ce6b29a74dd34cd0201bf60f41
+SHA512: 0580b4966bdb10d06d5160e5ef0d94874cc0e1e8555e44d2acbe38fb93c14d2f5343badc16cfc73df674e166dea92342e77a3e40912c21ae176199736b04b6c6
+Homepage: https://blog.qinyn.eu.org
+Description: 
+ .
+License: ISC
+Vendor: elysia-best <a.elysia@proton.me>
+
