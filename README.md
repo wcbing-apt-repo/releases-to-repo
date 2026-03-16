@@ -92,6 +92,7 @@
 | [Microsoft Edit](https://github.com/wcbing-build/msedit-debs) | msedit | ✅ | ✅ |
 | [Neovide](https://github.com/wcbing-build/neovide-debs) | neovide | ✅ | |
 | [NextTrace](https://github.com/nxtrace/nexttrace-debs) | nexttrace | ✅ | ✅ |
+| [superfile](https://github.com/wcbing-build/superfile-debs) | superfile | ✅ | ✅ |
 
 
 ## 存档或不活跃

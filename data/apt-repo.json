@@ -52,5 +52,11 @@
         "path": {
             "mix": "Packages"
         }
+    },
+    "superfile": {
+        "repo": "https://github.com/wcbing-build/superfile-debs/releases/latest/download/",
+        "path": {
+            "mix": "Packages"
+        }
     }
 }
