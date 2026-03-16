@@ -1,0 +1,21 @@
+Package: nautilus-extension-any-terminal
+Architecture: all
+Version: 0.8.1
+Priority: optional
+Section: gnome
+Source: nautilus-open-any-terminal
+Maintainer: Felix Buehler <account@buehler.rocks>
+Installed-Size: 183
+Depends: dconf-gsettings-backend | gsettings-backend, python3-nautilus, nautilus
+Filename: https://github.com/Stunkymonkey/nautilus-open-any-terminal/releases/download/0.8.1/nautilus-extension-any-terminal_0.8.1-1_all.deb
+Size: 18480
+MD5sum: 81cb1b710d59b9b30f55eae23d42fa83
+SHA1: 8317c3c5e36a16d354a562534afba5be1826ec4a
+SHA256: ffddcb372d602c4ecc5ec62c00e66070697ca9da6c222e54a503896cacf2c7b3
+SHA512: b1d9dbda669ab766c868a60c7f211b9127706264eb93a5a7664da8480f73404ff035a00e2602b6424df357350effd289f62edefd25a2e9643c418b5efc46bba4
+Homepage: https://github.com/Stunkymonkey/nautilus-open-any-terminal
+Description: Nautilus extension to open any terminal emulator
+ This is an extension for Nautilus which adds a context menu entry
+ for opening various terminal emulators instead of being limited
+ to gnome-terminal.
+
