@@ -50,7 +50,7 @@
     "tinyrdm": "v1.2.6",
     "trippy": "0.13.0",
     "ulauncher": "5.15.15",
-    "uotantoolbox": "3.5.0",
+    "uotantoolbox": "3.6.1",
     "venera": "v1.6.3",
     "waveterm": "v0.14.3",
     "winboat": "v0.9.0",
@@ -62,5 +62,6 @@
     "edrlab.thoriumreader": "v3.3.0",
     "easypostman": "v5.3.18",
     "netease-cloud-music": "v2.0.4",
-    "nautilus-open-any-terminal": "0.8.1"
+    "nautilus-open-any-terminal": "0.8.1",
+    "xmcl": "v0.54.4"
 }
