@@ -1,19 +1,19 @@
 Package: clash-verge
 Architecture: arm64
-Version: 2.4.6
+Version: 2.4.7
 Priority: optional
 Maintainer: zzzgydi, Tunglies, wonfen, MystiPanda
-Installed-Size: 137222
+Installed-Size: 132303
 Provides: clash-verge
 Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Conflicts: clash-verge
 Replaces: clash-verge
-Filename: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64.deb
-Size: 54693040
-MD5sum: 98cf9b07970addfee1bbd13f116ae05a
-SHA1: 2d90b8980cbfc636161e595496de41eeba4f5248
-SHA256: c8896e99683c2ca3a706db12ab6d97b30be1ae36ebb5775748a959922701c5dd
-SHA512: 271bc9963465291c24f685e130a91be4bb5a91af5b26dcba817326a9165f74c3fd8fe2a5c19c0c59c29026dd6a6583eea8307b334ffbb8e241326088049513c4
+Filename: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_arm64.deb
+Size: 53370802
+MD5sum: acd36a3990d8c1b1b9e58abc1e9b7ef5
+SHA1: 8c682fff6535e2cc4b9db3277d79dd33e305c46d
+SHA256: 35f321a498f762175316b231d2fad3a90678016ad19157779758b5420d743a8f
+SHA512: e5bfe03079e7ba902fa08e6cb74c72fdd0e3c4980868903e79bf458682b31b8fc9f92a7f4730088a6a09eb21e7020e074b5212e4f673d2ae133634fe0e91c62d
 Description: Clash Verge Rev
  Clash Verge Rev
 
