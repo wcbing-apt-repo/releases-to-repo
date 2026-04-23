@@ -15,7 +15,7 @@
     "dbeaver-ce": "26.0.3",
     "draw.io": "v29.6.6",
     "du-dust": "v1.2.4",
-    "fastfetch": "2.62.0",
+    "fastfetch": "2.62.1",
     "flameshot": "v13.3.0",
     "flclash": "v0.8.92",
     "foliate": "3.3.0",
@@ -60,7 +60,7 @@
     "powershell": "v7.6.1",
     "kula": "0.15.0",
     "edrlab.thoriumreader": "v3.4.0",
-    "easypostman": "v5.4.15",
+    "easypostman": "v5.4.23",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.1",
     "xmcl": "v0.54.4",
@@ -74,5 +74,6 @@
     "msedit": "v1.2.1",
     "neovide": "0.15.2",
     "nexttrace": "v1.6.4",
-    "superfile": "v1.5.0"
+    "superfile": "v1.5.0",
+    "nexttrace-tiny": "v1.6.4"
 }
