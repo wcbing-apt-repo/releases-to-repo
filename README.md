@@ -4,8 +4,6 @@
 
 ## 定时检测中
 
-### Github
-
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | ---- | ----- | ----- |
 | [balenaEtcher](https://github.com/balena-io/etcher) | balena-etcher | ✅ | |
@@ -72,13 +70,6 @@
 | [Yazi](https://github.com/sxyazi/yazi) | yazi | ✅ | ✅ |
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | yesplaymusic | ✅ | ✅ |
 | [zyfun[ZyPlayer]](https://github.com/Hiram-Wong/ZyPlayer) | zyfun | ✅ | ✅ |
-
-
-### Gitee
-
-| 软件名 | 包名 | amd64 | arm64 |
-| ----- | --- | ----- | ----- |
-| [星火应用商店](https://gitee.com/spark-store-project/spark-store) | spark-store | ✅ | ✅ |
 
 
 ### APT Repositories on Github

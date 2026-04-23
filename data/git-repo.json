@@ -317,14 +317,6 @@
             "arm64": "siyuan-{version}-linux-arm64.deb"
         }
     },
-    "spark-store": {
-        "site": "https://gitee.com",
-        "repo": "spark-store-project/spark-store",
-        "file_list": {
-            "amd64": "spark-store_{releases_tag}_amd64.deb",
-            "arm64": "spark-store_{releases_tag}_arm64.deb"
-        }
-    },
     "sparkle": {
         "repo": "xishang0128/sparkle",
         "file_list": {
