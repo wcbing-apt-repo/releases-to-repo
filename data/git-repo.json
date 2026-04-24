@@ -189,6 +189,13 @@
             "arm64": "frps_{version}+1_arm64.deb"
         }
     },
+    "ghost-downloader": {
+        "repo": "XiaoYouChR/Ghost-Downloader-3",
+        "file_list": {
+            "amd64": "Ghost-Downloader-{releases_tag}-Linux-x86_64.deb",
+            "arm64": "Ghost-Downloader-{releases_tag}-Linux-arm64.deb"
+        }
+    },
     "grpcurl": {
         "repo": "fullstorydev/grpcurl",
         "file_list": {
