@@ -78,14 +78,14 @@
     "nexttrace-tiny": "v1.7.3",
     "ghost-downloader": "v4.3.7",
     "frpc-desktop": "v1.2.7",
-    "motrix-next": "v3.9.8",
+    "motrix-next": "v3.9.9",
     "boxplayer": "v5.0.29",
     "tssh": "v0.1.26",
     "marktext": "v0.19.1",
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.1",
-    "dbx": "v0.6.9",
+    "dbx": "v0.6.10",
     "v2raya": "v2.4.18",
     "v2rayn": "7.24.9"
 }
