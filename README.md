@@ -29,6 +29,7 @@ sudo apt update
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
 | [小白羊 BoxPlayer](https://github.com/gaozhangmin/boxplayer) | boxplayer | ✅ | ✅ |
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
+| [CC Switch](https://github.com/farion1231/cc-switch) | cc-switch | ✅ | ✅ |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | cherrystudio | ✅ | ✅ |
 | [chezmoi](https://github.com/twpayne/chezmoi) | chezmoi | ✅ | ✅ |
 | [chsrc](https://github.com/RubyMetric/chsrc) | chsrc | ✅ | |

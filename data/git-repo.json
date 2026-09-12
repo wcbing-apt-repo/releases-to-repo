@@ -40,6 +40,13 @@
             "arm64": "caddy_{version}_linux_arm64.deb"
         }
     },
+    "cc-switch": {
+        "repo": "farion1231/cc-switch",
+        "file_list": {
+            "amd64": "CC-Switch-{releases_tag}-Linux-x86-64.deb",
+            "arm64": "CC-Switch-{releases_tag}-Linux-arm64.deb"
+        }
+    },
     "cherrystudio": {
         "repo": "CherryHQ/cherry-studio",
         "file_list": {
