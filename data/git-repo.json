@@ -43,8 +43,8 @@
     "cherrystudio": {
         "repo": "CherryHQ/cherry-studio",
         "file_list": {
-            "amd64": "Cherry-Studio-{version}-amd64.deb",
-            "arm64": "Cherry-Studio-{version}-arm64.deb"
+            "amd64": "Cherry-Studio-{version}-linux-x64.deb",
+            "arm64": "Cherry-Studio-{version}-linux-arm64.deb"
         }
     },
     "chezmoi": {
