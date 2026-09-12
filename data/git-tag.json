@@ -25,7 +25,7 @@
     "hiddify": "v4.1.1",
     "hoppscotch": "v26.8.0-0",
     "hugo": "v0.166.0",
-    "joplin": "v3.7.16",
+    "joplin": "v3.7.18",
     "koodo-reader": "v2.4.4",
     "localsend": "v1.18.2",
     "mihomo": "v1.19.30",
@@ -85,7 +85,7 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.1",
-    "dbx": "v0.6.10",
+    "dbx": "v0.6.11",
     "v2raya": "v2.4.18",
     "v2rayn": "7.24.9"
 }
