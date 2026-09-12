@@ -4,7 +4,7 @@
     "bongo-cat": "v1.1.0",
     "bottom": "0.14.9",
     "caddy": "v2.11.4",
-    "cherrystudio": "v2.0.9",
+    "cherrystudio": "v2.0.14",
     "chezmoi": "v2.72.1",
     "clash-verge": "v2.5.2",
     "cloudflared": "2026.9.1",
@@ -59,7 +59,7 @@
     "zyfun": "v3.4.7",
     "powershell": "v7.6.6",
     "kula": "0.19.0",
-    "edrlab.thoriumreader": "v3.4.0",
+    "edrlab.thoriumreader": "v3.5.1",
     "easypostman": "v6.0.24",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.3",
@@ -86,6 +86,7 @@
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.1",
     "dbx": "v0.6.11",
-    "v2raya": "v2.4.18",
-    "v2rayn": "7.24.9"
+    "v2raya": "v2.4.19",
+    "v2rayn": "7.24.9",
+    "cc-switch": "v3.20.3"
 }
