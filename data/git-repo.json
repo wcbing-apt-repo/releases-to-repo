@@ -43,7 +43,7 @@
     "cc-switch": {
         "repo": "farion1231/cc-switch",
         "file_list": {
-            "amd64": "CC-Switch-{releases_tag}-Linux-x86-64.deb",
+            "amd64": "CC-Switch-{releases_tag}-Linux-x86_64.deb",
             "arm64": "CC-Switch-{releases_tag}-Linux-arm64.deb"
         }
     },
