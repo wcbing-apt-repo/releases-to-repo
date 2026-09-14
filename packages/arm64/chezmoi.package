@@ -1,15 +1,15 @@
 Package: chezmoi
 Architecture: arm64
-Version: 2.72.1
+Version: 2.72.2
 Priority: optional
 Maintainer: Tom Payne <twpayne@gmail.com>
-Installed-Size: 36641
-Filename: https://github.com/twpayne/chezmoi/releases/download/v2.72.1/chezmoi_2.72.1_linux_arm64.deb
-Size: 14098902
-MD5sum: e4dbc368891d37b0c8b00847ef35d0d4
-SHA1: 7837a98f84e2242fc8ebc37d967531298ea00fdc
-SHA256: 07d136f29d9a37587dd9e950a656983984b98dfbed5b15a76f6447aa51c208e6
-SHA512: fa070695734ef3cd35810faefa46be9b5c09858ce835a92dd49db4c3111522b073d602ffc035c45180e11662b68ffba75c0477eb47da2f0482125c2854c2475c
+Installed-Size: 36769
+Filename: https://github.com/twpayne/chezmoi/releases/download/v2.72.2/chezmoi_2.72.2_linux_arm64.deb
+Size: 14102900
+MD5sum: e268c6f59877fb6db7f9582501b9354c
+SHA1: 0959137bc372bc04c2d1506da9e21d9897b05230
+SHA256: 3bb492d8c32f3d59c9f2066486e0149345eabf62a01f1ec9477ad04ad1cd99b7
+SHA512: ccde6a4c2662373373cd79f9b3f353573bbbf93467a50f396c956cf999310c1f8f8e13de1c3444be4c83943fca4295a394e34a9dcb8edcc35d8db8bf1ea35c99
 Homepage: https://chezmoi.io/
 Description: Manage your dotfiles across multiple diverse machines, securely.
 

@@ -5,7 +5,7 @@
     "bottom": "0.14.9",
     "caddy": "v2.11.4",
     "cherrystudio": "v2.0.14",
-    "chezmoi": "v2.72.1",
+    "chezmoi": "v2.72.2",
     "clash-verge": "v2.5.2",
     "cloudflared": "2026.9.1",
     "cn.classisland.app": "2.1.0.1",
@@ -85,7 +85,7 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.1",
-    "dbx": "v0.6.11",
+    "dbx": "v0.6.12",
     "v2raya": "v2.4.19",
     "v2rayn": "7.24.9",
     "cc-switch": "v3.20.3"
