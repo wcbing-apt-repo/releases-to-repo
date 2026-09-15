@@ -23,7 +23,7 @@
     "fresh-editor": "v0.5.1",
     "grpcurl": "v1.9.4",
     "hiddify": "v4.1.1",
-    "hoppscotch": "v26.8.0-0",
+    "hoppscotch": "v26.8.1-0",
     "hugo": "v0.166.0",
     "joplin": "v3.7.18",
     "koodo-reader": "v2.4.4",
@@ -60,7 +60,7 @@
     "powershell": "v7.6.6",
     "kula": "0.19.0",
     "edrlab.thoriumreader": "v3.5.1",
-    "easypostman": "v6.1.1",
+    "easypostman": "v6.2.0",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.3",
     "xmcl": "v0.70.0",
@@ -88,5 +88,6 @@
     "dbx": "v0.6.13",
     "v2raya": "v2.4.19",
     "v2rayn": "7.24.9",
-    "cc-switch": "v3.20.3"
+    "cc-switch": "v3.20.3",
+    "fresco": "v1.1.42"
 }
