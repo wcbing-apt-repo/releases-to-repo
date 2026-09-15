@@ -52,6 +52,7 @@ sudo apt update
 | [FlClash](https://github.com/chen08209/FlClash) | flclash | ✅ | ✅ |
 | [Foliate](https://github.com/johnfactotum/foliate) | foliate | ✅ | ✅ |
 | [fooyin](https://github.com/fooyin/fooyin) | fooyin | ✅ | |
+| [fresco](https://github.com/DibbayajyotiRoy/Fresco) | fresco | ✅ | |
 | [Fresh](https://github.com/sinelaw/fresh) | fresh-editor | ✅ | ✅ |
 | [frp](https://github.com/wcbing-apt-repo/frp-debs)* | frps<br />frpc | ✅ | ✅ |
 | [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) | frpc-desktop | ✅ | ✅ |
