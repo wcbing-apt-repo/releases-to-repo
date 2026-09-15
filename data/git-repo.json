@@ -40,11 +40,18 @@
             "arm64": "caddy_{version}_linux_arm64.deb"
         }
     },
+    "cc-switch": {
+        "repo": "farion1231/cc-switch",
+        "file_list": {
+            "amd64": "CC-Switch-{releases_tag}-Linux-x86_64.deb",
+            "arm64": "CC-Switch-{releases_tag}-Linux-arm64.deb"
+        }
+    },
     "cherrystudio": {
         "repo": "CherryHQ/cherry-studio",
         "file_list": {
-            "amd64": "Cherry-Studio-{version}-amd64.deb",
-            "arm64": "Cherry-Studio-{version}-arm64.deb"
+            "amd64": "Cherry-Studio-{version}-linux-x64.deb",
+            "arm64": "Cherry-Studio-{version}-linux-arm64.deb"
         }
     },
     "chezmoi": {
@@ -145,8 +152,8 @@
     "edrlab.thoriumreader": {
         "repo": "edrlab/thorium-reader",
         "file_list": {
-            "amd64": "EDRLab.ThoriumReader_{version}_amd64.deb",
-            "arm64": "EDRLab.ThoriumReader_{version}_arm64.deb"
+            "amd64": "Thorium-{version}-amd64.deb",
+            "arm64": "Thorium-{version}-arm64.deb"
         }
     },
     "escrcpy": {

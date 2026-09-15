@@ -1,18 +1,18 @@
 Package: frpc-desktop
 Architecture: arm64
-Version: 1.2.6
+Version: 1.2.7
 Priority: optional
 Section: default
 Maintainer: 刘嘉伟 <8473136@qq.com>
-Installed-Size: 375019
+Installed-Size: 402052
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop_1.2.6_arm64.deb
-Size: 81072770
-MD5sum: 3f4b2c25b67496aaeb51e8d250288d59
-SHA1: 6991bf58a54f48bd2253cee6e76d2331157a2cee
-SHA256: 004308b63e1934915e1c689158f38514253ea96dbb03605fcc5e4dc0b17330ec
-SHA512: 2cd1b5e2b20295ca43bbffe2b4675b446f246c753660af11a9a13a7f8198dfa5ecfd344529fd60b67563a14b6d927b220b71ac65a3e52b9806f58001d12db61d
+Filename: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop_1.2.7_arm64.deb
+Size: 104966100
+MD5sum: cc4c7212309059e51f5615b7d56aa280
+SHA1: 2f30707bf19857454563415f4ea5f880215fdaa2
+SHA256: 5465a52d5f890c217a2c0cda86dfeb3a391e6221b1f7273c20957ecc79e2f2a2
+SHA512: 91dc565ddd55a8fea20d08cd6165587617d2780a79064710db67d798b181883380da8a78c7e6ac76de0133e444e8249b608e3e0383ae203d49e30c06eae715c5
 Homepage: https://github.com/luckjiawei/frpc-desktop#readme
 Description: 
   FRP跨平台桌面客户端，可视化配置，轻松实现内网穿透！

@@ -1,16 +1,16 @@
 Package: tinygo
 Architecture: arm64
-Version: 0.41.1
+Version: 0.42.0
 Priority: optional
 Section: default
 Maintainer: @tinygo-org
-Installed-Size: 1201618
-Filename: https://github.com/tinygo-org/tinygo/releases/download/v0.41.1/tinygo_0.41.1_arm64.deb
-Size: 171793086
-MD5sum: 5c3c54e9c1a710ea5bb4326d62815ac1
-SHA1: 95496b56b00e69b71efc427977282f222dcfb33d
-SHA256: 6fbcc9a56a2aead1e981200d52228d2c2f14a2a889b64cfd1b7bf5431e65ca08
-SHA512: 3e1e416bbed9e33daac70ec0c33790baba465097290ebb2f70a9b1472daf698d772017f24907970636be8295113b6d84ba5bca31ac017dc15a27f72d16242d5b
+Installed-Size: 1232357
+Filename: https://github.com/tinygo-org/tinygo/releases/download/v0.42.0/tinygo_0.42.0_arm64.deb
+Size: 177779868
+MD5sum: 06602ab4fde1238903aaf64874b8a6d7
+SHA1: a99f067b9acee0ebfb2435f446ab7215aa65e7d0
+SHA256: d25cf7987a8b2bc59de050fdfefe1a894b65a469e6287056c407e4dcc90fbc09
+SHA512: 92308ded03fade9164aadf231be97a069e3cd32e70366866439fa4e71b7efe9847dae31e2d338f6fb49e911c9538b012d4870f17ed537e9c2152d0bf226fd2b1
 Homepage: https://tinygo.org/
 Description: TinyGo is a Go compiler for small places.
 License: BSD 3-Clause

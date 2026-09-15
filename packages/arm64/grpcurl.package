@@ -1,15 +1,16 @@
 Package: grpcurl
 Architecture: arm64
-Version: 1.9.3
+Version: 1.9.4
 Priority: optional
 Maintainer: Engineering at Fullstory  <fixme@fixme>
-Installed-Size: 23232
-Filename: https://github.com/fullstorydev/grpcurl/releases/download/v1.9.3/grpcurl_1.9.3_linux_arm64.deb
-Size: 7363470
-MD5sum: fb35398383d86ed538a1fbc41c6dbe38
-SHA1: 949fef2a701169080e557f3b9c3edc132e8c008d
-SHA256: b1c6b1e57059b54e30f8a41d4e06187caae1ab26dbbf7561a61bec3b42773e52
-SHA512: 7bfa947021f613fee4b64726d8d5c839b255b9d58c4abf45ab04af25df37adcc992b0d795e986d6bbfbc19569b57fbf304cf9bd448a3239a8314e39c5cba6b6f
+Installed-Size: 28608
+Filename: https://github.com/fullstorydev/grpcurl/releases/download/v1.9.4/grpcurl_1.9.4_linux_arm64.deb
+Size: 9062054
+MD5sum: ab2522a0eee17d87f05ca8ba5967941d
+SHA1: e23bfbff50fa1e9b70e93b566f460099472f05f9
+SHA256: b9aeac8f0c5598d27a2238e8a90d9bf36b8a2db0f6e5e99efd2fe93509f1b9ad
+SHA512: 8c14c2830a40c3598da7ce805195f04a1d0c6c98ed5e8989f3846abf8544695a778ffcdbcd33ba8437446480aa6693684d63e70d71c4b01277db9ba5878c669f
 Homepage: https://github.com/fullstorydev/grpcurl/
 Description: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+License: MIT
 

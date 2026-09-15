@@ -1,15 +1,15 @@
 Package: nexttrace
 Architecture: arm64
-Version: 1.7.2+1
+Version: 1.7.3+1
 Priority: optional
 Section: net
 Maintainer: wcbing <i@wcbing.top>
-Filename: https://github.com/nxtrace/nexttrace-debs/releases/download/v1.7.2/nexttrace_1.7.2+1_arm64.deb
-Size: 9354856
-MD5sum: 76cad1c14b9e9a2c3a8fb0ae4fa33659
-SHA1: 9a0cbfdd2956d8601cc30b95461d8c71f29bd9bf
-SHA256: c6994bab5e74fccd54317bdeedb28189df40845a26bbe976090417ce4d712576
-SHA512: fac98a315b60245f280bb5803acf98e399092dcd29aeda7de41d8d7bd0540b3fb36f4db32201a4dfaa82c7822b5a4d24065334098f4d3187647a8a187352933e
+Filename: https://github.com/nxtrace/nexttrace-debs/releases/download/v1.7.3/nexttrace_1.7.3+1_arm64.deb
+Size: 9453240
+MD5sum: f8f452b9c3ffa8e263dd95d9bd9f451f
+SHA1: 41520ff5b3794a166d90a34edf7745bb8b95cbe4
+SHA256: 470fc490d694be7b8790fdd1edb5a720a394f4712fe5fd446b4af5d1cef94dab
+SHA512: 4ca6c89ae9b12fafb3b2072e313d4134e162b9916c4e68c0b2b4e495728dcdd1041fedf089f0f3a817d74a63dabd96f404f6d2899797e1836f7e55c5c872f2f7
 Homepage: https://www.nxtrace.org
 Description: NextTrace full CLI with traceroute, MTR, Globalping, and WebUI
 

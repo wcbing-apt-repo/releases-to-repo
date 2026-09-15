@@ -1,18 +1,18 @@
 Package: draw.io
 Architecture: amd64
-Version: 31.3.2
+Version: 31.4.5
 Priority: optional
 Section: default
 Maintainer: draw.io <desktop@draw.io>
-Installed-Size: 457286
+Installed-Size: 354265
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/drawio-amd64-31.3.2.deb
-Size: 133864780
-MD5sum: cf05791ca75c9f9dad7606a4464e64cf
-SHA1: a3fc85602ffee0da2102cf8c80a44fdda15ca597
-SHA256: 725453f32ef7f2f63f8b50b374857a5c312e2aaabcf221cb0600332741ae1094
-SHA512: ca5d0b34c4ca784fcd2e67352b57f0a8d2f5c49cef61efd53d2d641866698fa5a7f22684a5a4b394be69d0dd2ddafe0f21f90c4d4aaffa44d3d005852970dd6a
+Filename: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-amd64-31.4.5.deb
+Size: 124710044
+MD5sum: c3b13223cb6cdc2c57bc3cc023ec2515
+SHA1: 39cd59bd21338ed21e3c22c0f59814f6d8b26c2c
+SHA256: 296729ee18f781dc82deb757de2b3399fbe04fe0ddad3093909013e707ee2ae4
+SHA512: c6b80cea7ad56f5ad7ee1edb416e48e7ffd7fd13abcc94993dc71b15822d4340c0abeb6cdd34630723cf293eacee190fa664361a6d75d8b2807bc3af41de325c
 Homepage: https://github.com/jgraph/drawio
 Description: 
   draw.io desktop

@@ -1,16 +1,16 @@
 Package: hoppscotch
 Architecture: amd64
-Version: 26.7.0
+Version: 26.8.0
 Priority: optional
 Maintainer: CuriousCorrelation
-Installed-Size: 76287
+Installed-Size: 76415
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/hoppscotch/releases/releases/download/v26.7.0-0/Hoppscotch_linux_x64.deb
-Size: 48741154
-MD5sum: 54a28d04346ed449b3705871722cf30f
-SHA1: 629ec9de4a1d7d2eed01435576631eaaf5d71cf9
-SHA256: ee19c968d0183720a4cee39314423d08700dedf26e1796c42c7f02cffbb72425
-SHA512: 833a31b91d2eb8007e1cb5a68f24d7b4c9cba68bb44399d4c680224a3b0f0a456e390a97662863e800efeb802979e5e32daaaf13b4fdc74b39cf79ef58d7cc10
+Filename: https://github.com/hoppscotch/releases/releases/download/v26.8.0-0/Hoppscotch_linux_x64.deb
+Size: 48879898
+MD5sum: e47630899d46176f7b28d1e1aa5c6b02
+SHA1: 2c55814422bbbc469c120a735c0c702cc2918a17
+SHA256: 6c619048b423231fb2157284091c437cd016fb43398b53f94813d11a25fbadfe
+SHA512: 15d5b518f1ea7061eaa79b796f77ec82691b9fa6a3b3d616ff08bceaf804314b6bad1d5f7e2f961d438b926dc76df3a8816ea3f39afaf7331dc94e396bb3bfe7
 Description: Desktop App for hoppscotch.io
  (none)
 
