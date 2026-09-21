@@ -4,7 +4,7 @@
     "bongo-cat": "v1.1.0",
     "bottom": "0.14.9",
     "caddy": "v2.11.4",
-    "cherrystudio": "v2.1.0",
+    "cherrystudio": "v2.1.2",
     "chezmoi": "v2.72.2",
     "clash-verge": "v2.5.2",
     "cloudflared": "2026.9.1",
@@ -86,8 +86,9 @@
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.3",
     "dbx": "v0.6.18",
-    "v2raya": "v2.4.25",
+    "v2raya": "v2.5.5",
     "v2rayn": "7.24.9",
     "cc-switch": "v3.20.3",
-    "fresco": "v1.1.43"
+    "fresco": "v1.1.43",
+    "reqable": "3.2.23"
 }
