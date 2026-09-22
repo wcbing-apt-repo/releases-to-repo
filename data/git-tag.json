@@ -6,7 +6,7 @@
     "caddy": "v2.11.4",
     "cherrystudio": "v2.1.2",
     "chezmoi": "v2.72.2",
-    "clash-verge": "v2.5.2",
+    "clash-verge": "v2.5.5",
     "cloudflared": "2026.9.1",
     "cn.classisland.app": "2.1.0.1",
     "code-server": "v4.138.0",
@@ -86,9 +86,9 @@
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.3",
     "dbx": "v0.6.19",
-    "v2raya": "v2.5.6",
+    "v2raya": "v2.5.7",
     "v2rayn": "7.24.9",
-    "cc-switch": "v3.20.3",
+    "cc-switch": "v3.20.4",
     "fresco": "v1.1.43",
     "reqable": "3.2.23"
 }
