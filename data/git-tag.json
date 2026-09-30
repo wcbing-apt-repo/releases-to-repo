@@ -42,7 +42,7 @@
     "simplenote": "v2.27.1",
     "siyuan": "v3.8.6",
     "spark-store": "5.0.0",
-    "sparkle": "1.26.8",
+    "sparkle": "1.26.9",
     "splayer": "v3.1.1",
     "systemd-manager-tui": "v1.2.5",
     "tabby-terminal": "v1.0.237",
@@ -85,10 +85,10 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.3",
-    "dbx": "v0.6.28",
+    "dbx": "v0.6.29",
     "v2raya": "v2.5.8",
     "v2rayn": "7.24.9",
     "cc-switch": "v3.20.4",
-    "fresco": "v1.1.45",
+    "fresco": "v1.1.46",
     "reqable": "3.2.23"
 }
