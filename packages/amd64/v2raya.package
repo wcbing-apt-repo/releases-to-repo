@@ -1,16 +1,16 @@
 Package: v2raya
 Architecture: amd64
-Version: 2.5.7
+Version: 2.5.8
 Priority: optional
 Section: default
 Maintainer: v2raya@v2raya.org
-Installed-Size: 92611
-Filename: https://github.com/v2rayA/v2rayA/releases/download/v2.5.7/installer_debian_x64_2.5.7.deb
-Size: 32616280
-MD5sum: 26a8006de24ec8fc95fb5cace959aac9
-SHA1: 8b2b143fccfbf44280fe387b665666a6ee55158f
-SHA256: c4a82fd8716d0e3ec0ac0da6589e944227cb019c849d62edfa606b457d226584
-SHA512: ff43dc18a73e9aae8787a57dc0078ebb1eb33a48f6aa1e649d2c6cc8c3e8664cc725146003b7ad701e14269ad84c1bd40dae53dfccabdac06f81c5c861e40c74
+Installed-Size: 92277
+Filename: https://github.com/v2rayA/v2rayA/releases/download/v2.5.8/installer_debian_x64_2.5.8.deb
+Size: 32535554
+MD5sum: 8a2a3c7882cd3c8ab5c2611a7ae53c47
+SHA1: 85cc8212fec430d9ae0f85432b0945ef07ab6817
+SHA256: 7d1531abc598971b304b300b4e33fee7c7989f17a86f39f19ef171c832af75eb
+SHA512: 3edabf7cb01b44dbf220062abc11308459fc0a5e51707c228616df5e50add73893d265fd4e9a9d85d2f6b1b47243c38d51fb896e2909ef5336b149e9836d785b
 Homepage: https://github.com/v2rayA/v2rayA
 Description: A web GUI client of Project V which supports VMess, VLESS, Shadowsocks, Trojan, TUIC, Juicity and AnyTLSs
 License: AGPL
