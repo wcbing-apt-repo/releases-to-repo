@@ -3,7 +3,7 @@
     "bat": "v0.26.1",
     "bongo-cat": "v1.1.0",
     "bottom": "0.14.9",
-    "caddy": "v2.11.4",
+    "caddy": "v2.11.6",
     "cherrystudio": "v2.1.4",
     "chezmoi": "v2.73.0",
     "clash-verge": "v2.5.6",
@@ -89,6 +89,6 @@
     "v2raya": "v2.5.8",
     "v2rayn": "7.25.4",
     "cc-switch": "v3.20.4",
-    "fresco": "v1.1.46",
+    "fresco": "v1.1.47",
     "reqable": "3.2.23"
 }

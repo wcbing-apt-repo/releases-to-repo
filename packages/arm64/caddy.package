@@ -1,16 +1,16 @@
 Package: caddy
 Architecture: arm64
-Version: 2.11.4
+Version: 2.11.6
 Priority: optional
 Maintainer: Matthew Holt <mholt@users.noreply.github.com>
-Installed-Size: 44170
+Installed-Size: 47306
 Provides: httpd
-Filename: https://github.com/caddyserver/caddy/releases/download/v2.11.4/caddy_2.11.4_linux_arm64.deb
-Size: 15731662
-MD5sum: 6f89e93d27cab2f6b17cd3c5b7bdcfed
-SHA1: cbdedfa2f28f02773af57f25d4f9c32b9842f7c2
-SHA256: aeab2e38bf77a0162611a1703a5e16c09475b000d41f7edaa9337734d16642fd
-SHA512: c43c62b7b583b31c682b3c3e1a31cf03759fbab01dcb0fc7d7fc3a5ce1bef43403583e26133920634a730a9fe31dae1386af4d3f9f3fc19fcc2c29ebf19de235
+Filename: https://github.com/caddyserver/caddy/releases/download/v2.11.6/caddy_2.11.6_linux_arm64.deb
+Size: 16489978
+MD5sum: 61f54e3879c408b8c55e38e31aa8ecf8
+SHA1: fbb02b60347ef52189a915da3de7c8fbc190d7ce
+SHA256: c67c622dbcd8047bee6b9f4fd3d250892e724c75213a074abff4b2a4331e6841
+SHA512: 476b27b72f2d70d6c5ed89f89e1a9858e8c872d4410aaf528148279070661c56a1e0968ef56be039f2ee06d9073dc10f8c6ec772e4044e24c4f8660f1f18f8a8
 Homepage: https://caddyserver.com
 Description: Caddy - Powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
