@@ -13,7 +13,7 @@
     "codium": "1.135.06055",
     "cryptomator": "1.19.3",
     "dbeaver-ce": "26.2.2",
-    "draw.io": "v31.7.0",
+    "draw.io": "v32.3.0",
     "du-dust": "v1.2.6",
     "fastfetch": "2.69.0",
     "flameshot": "v13.3.0",
@@ -88,7 +88,7 @@
     "dbx": "v0.6.35",
     "v2raya": "v2.5.9",
     "v2rayn": "7.25.4",
-    "cc-switch": "v3.20.4",
+    "cc-switch": "v4.0.4",
     "fresco": "v1.1.48",
     "reqable": "3.2.23"
 }
