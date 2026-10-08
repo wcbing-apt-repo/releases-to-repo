@@ -1,18 +1,18 @@
 Package: marktext
 Architecture: amd64
-Version: 0.20.0
+Version: 0.21.1
 Priority: optional
 Section: default
 Maintainer: MarkText Contributors
-Installed-Size: 420272
+Installed-Size: 420574
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.deb
-Size: 120768204
-MD5sum: 6307aac700881a72206788275292aa74
-SHA1: 94e7a6ab49c221a36a68fd31abe9d92eeae56d8b
-SHA256: 2ec37fcc8598c8796dc2fedfc69bc46b2d6b68f12106d8b2d334e095fc2b20cf
-SHA512: bb0d7b1cbd70f9487db0e4f531e2e7eb5204ccdcf93b4ca3b8181fc4aebac4ec0fed6f738ce76d55e2592855841ab401c45c7cf330d227d23c08d8c96d494415
+Filename: https://github.com/marktext/marktext/releases/download/v0.21.1/marktext-linux-0.21.1.deb
+Size: 120904740
+MD5sum: 7ce09ff86eb0e7480dc22f46cb1affc1
+SHA1: d9dfc84e1a415c93dc82d8eddf726661ba266ea6
+SHA256: 7643dde6f028d65a07d69718baf19c592c70c875959017b741988967a9c864a5
+SHA512: d94d4b58087a4e8c6258663ef0d944b8b780ec854f8d2255d66305b0f680cb136947243a9a65cefbda91676f1a8ae371671a27b035abfe7eccab30b51f7573a2
 Homepage: https://github.com/marktext/marktext
 Description: 
   A simple and elegant open-source markdown editor that focused on speed and usability.
