@@ -1,17 +1,17 @@
 Package: rclone
 Architecture: amd64
-Version: 1.75.1
+Version: 1.75.2
 Priority: extra
 Section: default
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 93175
+Installed-Size: 93565
 Provides: rclone
-Filename: https://github.com/rclone/rclone/releases/download/v1.75.1/rclone-v1.75.1-linux-amd64.deb
-Size: 32154762
-MD5sum: 8e36b347466dc596fe13fdc42275c7e9
-SHA1: 8d22462b89d92825aae658125c9efca847faa705
-SHA256: 09c9f7606ed9e31eecc1eec26a89992cf2931a8d2d1a5f0ae2bb1c11630ffb15
-SHA512: f25760372e2836f22734864490ce82c88321f1b03b0c68ab57221942e327a3d7bf5b4641be2b62673f43d0399e53a6e6ec2f016cf999e9355467a0a9641b24dc
+Filename: https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-linux-amd64.deb
+Size: 32295266
+MD5sum: cedd7fff7d04bf934fbbcd2e6929bc8f
+SHA1: 9590aa56260e1e2c4116db0459c2b5c87fbc9a60
+SHA256: efbfe852181f7191eb3c9043ed1ab49c9b2d0ba045c61c926a5da111c939ec5c
+SHA512: 31e826f43c84acd89f94e1213d4c81af34ef5e96ccd9610e268b4e2e5a0eb796b3f4bb348ee1cf23348ec5f872632ad7d97c036acd2e49ef07f7e497e2c347ac
 Homepage: https://rclone.org
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and

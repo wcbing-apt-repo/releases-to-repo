@@ -37,7 +37,7 @@
     "pandoc": "3.12.1",
     "pdfsam-basic": "v6.0.6",
     "peazip": "11.3.0",
-    "rclone": "v1.75.1",
+    "rclone": "v1.75.2",
     "rustdesk": "1.5.0",
     "simplenote": "v2.27.1",
     "siyuan": "v3.8.6",
@@ -85,10 +85,10 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.3",
-    "dbx": "v0.6.37",
-    "v2raya": "v2.5.9",
+    "dbx": "v0.6.38",
+    "v2raya": "v2.5.10",
     "v2rayn": "7.25.4",
-    "cc-switch": "v4.0.5",
+    "cc-switch": "v4.0.6",
     "fresco": "v1.1.48",
     "reqable": "3.2.23"
 }
