@@ -1,18 +1,18 @@
 Package: escrcpy
 Architecture: amd64
-Version: 3.2.0
+Version: 3.3.1
 Priority: optional
 Section: default
 Maintainer: viarotel@qq.com
-Installed-Size: 402415
+Installed-Size: 402423
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/viarotel-org/escrcpy/releases/download/v3.2.0/Escrcpy-3.2.0-linux-amd64.deb
-Size: 123418916
-MD5sum: 414bb322cd9dc346006bc536d879b4fd
-SHA1: 5aeb6ff109e8d24f374ac434e76cc6ffce458b0f
-SHA256: 5d55ed8de3a2b7229cb662a4e128a2ebb58f32fb2415b9c10852679d0d96460a
-SHA512: 9da71535f08e48763571896a8e445b18cfb7cf20e6bb52e96fbd8132db4cf8372172889bdd5ee37a4919aafc23f739e1b2c9200430d264f8300ce32a273479f8
+Filename: https://github.com/viarotel-org/escrcpy/releases/download/v3.3.1/Escrcpy-3.3.1-linux-amd64.deb
+Size: 123461804
+MD5sum: 44126b0de57a8f688d85e0b8b898e065
+SHA1: 818b4b045c7d2ba1052a1ca99d5f36fb6d92dd28
+SHA256: 218ea7d8961d2823c6dc36ac7445af7bed72e129333e4241c38dd2027d904a0a
+SHA512: 10806eb1c9ee1ffd5284ce46995d55b12719518a1ad7620bc05b97d4444859439e8da96057e16d5b813276f062b97e91d887df4e3870ea434db0a504ae714872
 Homepage: https://github.com/viarotel-org/escrcpy
 Description: 
   Scrcpy Powered by Electron
