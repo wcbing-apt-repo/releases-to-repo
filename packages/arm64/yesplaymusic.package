@@ -1,18 +1,18 @@
 Package: yesplaymusic
 Architecture: arm64
-Version: 0.4.10
+Version: 0.4.11
 Priority: optional
 Section: default
 Maintainer: qier222 <qier222@outlook.com>
-Installed-Size: 239536
+Installed-Size: 239546
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/yesplaymusic_0.4.10_arm64.deb
-Size: 63506332
-MD5sum: 23e6b6f9ede39b03b64d6751bc1375e6
-SHA1: f347dc4dbc22a9c93666c677c31c54191526f73e
-SHA256: b96c8c4a342b78aaba074af44755ab3ee3d8e3322472b30ee93be0b9a1fb7351
-SHA512: d53aca41152dc80355a3b795840005d36ee49471537252de48a0b3648f095d6bb970b21e1aec3df904e779bd79fbb31579f954243f07b48b7b590be78c8ef0e6
+Filename: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb
+Size: 66331878
+MD5sum: 05186651e6f7c771a055c63a17d8783f
+SHA1: c670a1b6ebe5cb5a83925bf2478bd93fe62e909c
+SHA256: e956e2fa8fa2ecc12441e3718fab4d08db3b33efbdf95a475d00fe8cd852ed42
+SHA512: 0a00601b6c27358983369011c52c31582184580dc4c6201853150157c4c1d5d7a4c37c4f2582aeeac530b71d40f3974039492282116d23cd2153ad91f1078308
 Homepage: https://github.com/qier222/YesPlayMusic
 Description: 
   A third party music player for Netease Music

@@ -1,16 +1,17 @@
 Package: systemd-manager-tui
 Architecture: amd64
-Version: 1.2.5-1
+Version: 1.3.0-1
 Priority: optional
 Maintainer: Matheus-git <mathiew0@gmail.com>
-Installed-Size: 7873
-Depends:
-Filename: https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb
-Size: 2131504
-MD5sum: d012f1cdd40495b6f36664befae873d3
-SHA1: d51d8378162f65c85c3faad1c5cd905b32a1e707
-SHA256: 26843579634740fb04f2b5fc018101bd46aa1fe50e97b03c40775f6663210565
-SHA512: 0cc93f5e9c59cfd75b13b3818831da1f8978113556a15ee7cfadda7b16df09ecd5e893b047d00977ea40903247f32b617120884eb32a6204e5552323f6f1136c
+Installed-Size: 8545
+Depends: systemd
+Recommends: default-dbus-session-bus | dbus-session-bus
+Filename: https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.3.0/systemd-manager-tui_1.3.0_amd64.deb
+Size: 2144864
+MD5sum: 5fc9e30bf012a46b2c66d610be51e2f2
+SHA1: 798a947b682e4703cef85875c08238872946210f
+SHA256: e078620f5051baa055eebd0946d77b2ac96d456a1287c6d4f3f509024784e4e1
+SHA512: dc17b0b261bb78285121d90e614f21391e37dd726412bedc6d8fab134f2503673876bcded68618f36098a5bfa9fa8a238ebbd0c7ec67d7844fcb4816550c2626
 Homepage: https://github.com/matheus-git/systemd-manager-tui
 Description: TUI for managing systemd services
  # Systemd manager tui
@@ -39,6 +40,10 @@ Description: TUI for managing systemd services
  .
  # With a filter
  systemd-manager-tui -f docker
+ .
+ # Without watching system and user units for failure notifications
+ systemd-manager-tui -n
+ # or: systemd-manager-tui --no-notifications
  ```
  .
  ## Install
@@ -58,6 +63,37 @@ Description: TUI for managing systemd services
  .
  Download the .rpm file from
  [Releases](https://github.com/matheus-git/systemd-manager-tui/releases)
+ .
+ ### Building packages
+ .
+ Build native and cross-compiled binaries, DEBs, and RPMs with:
+ .
+ ```sh
+ ./build.sh
+ ```
+ .
+ The script selects the RPM architecture and binary asset automatically. To
+ regenerate packages
+ from binaries that already exist under `target/<triple>/release/`, use:
+ .
+ ```sh
+ ./build.sh --rpm-only
+ ./build.sh --deb-only
+ ./build.sh --packages-only
+ ```
+ .
+ Before packaging, the script rejects stale binaries, verifies the ELF target
+ architecture, and
+ runs the binary's `--version` command when the target is native or a compatible
+ QEMU runner is
+ installed.
+ .
+ To build or package only one architecture, combine an option with `--target`:
+ .
+ ```sh
+ ./build.sh --rpm-only --target aarch64-unknown-linux-musl
+ ./build.sh --skip-native --target x86_64-unknown-linux-musl
+ ```
  .
  ### Arch linux
  .
@@ -84,6 +120,34 @@ Description: TUI for managing systemd services
  .
  - ratatui - 0.29.0
  - zbus - 5.5.0
+ .
+ ## Testing
+ .
+ Run the regular test suite with:
+ .
+ ```bash
+ cargo test
+ ```
+ .
+ The regular suite includes unit, application-flow, and Ratatui rendering tests
+ using `TestBackend`, so it does not require an interactive terminal or a
+ running systemd instance.
+ .
+ Real integration tests against the system and user D-Bus buses are available as
+ an opt-in suite. Run them on a systemd-based Linux host where the current user
+ has an active user manager and both `systemctl` and `systemd-run` are
+ available:
+ .
+ ```bash
+ cargo test infrastructure::systemd_service_adapter::tests -- --ignored
+ --test-threads=1
+ ```
+ .
+ The integration suite reads real system units and creates an isolated transient
+ user service to exercise lifecycle operations. The temporary service is stopped
+ and cleaned up automatically. These tests are ignored during a regular `cargo
+ test` so environments without systemd, such as many CI containers, continue to
+ work.
  .
  ## Contributing
  .
