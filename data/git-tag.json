@@ -15,7 +15,7 @@
     "dbeaver-ce": "26.2.2",
     "draw.io": "v32.4.1",
     "du-dust": "v1.2.6",
-    "fastfetch": "2.69.0",
+    "fastfetch": "2.70.0",
     "flameshot": "v13.3.0",
     "flclash": "v0.9.0",
     "foliate": "3.3.0",
@@ -88,7 +88,7 @@
     "dbx": "v0.6.43",
     "v2raya": "v2.5.10",
     "v2rayn": "7.25.6",
-    "cc-switch": "v4.0.11",
+    "cc-switch": "v4.0.12",
     "fresco": "v1.1.49",
     "reqable": "3.3.1"
 }
