@@ -1,16 +1,16 @@
 Package: v2rayn
 Architecture: arm64
-Version: 7.25.4
+Version: 7.25.6
 Priority: optional
 Section: net
 Maintainer: 2dust <noreply@github.com>
 Depends: libc6, libfontconfig1, libgcc-s1, libstdc++6, libc6 (>= 2.39), fontconfig (>= 2.15.0), desktop-file-utils (>= 0.26), xdg-utils (>= 1.1.3), coreutils (>= 9.4), bash (>= 5.2.21), libfreetype6 (>= 2.13)
-Filename: https://github.com/2dust/v2rayN/releases/download/7.25.4/v2rayN-linux-arm64.deb
-Size: 78036132
-MD5sum: 901ee8527f38f5b06c54c02f58101d3f
-SHA1: b29dc2ad8fe7f62c7b397b4c89efd8d566ab6688
-SHA256: b135ed2a5022a1f3fbf19151816d89daafc29f256750cf5cdedf89a6c9b0433d
-SHA512: b834c7e6cc7c5e7ae64954aa5f6dab40e5bde48616e76cebd59bbfd79ce1205918448349d80b8154df65de2bc5be0f19bc6b4e3f94117fa5fb3d1e5a1d9eebdb
+Filename: https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.deb
+Size: 78251484
+MD5sum: 474b10db88ee45fbd5a10fd208c1c71c
+SHA1: 6bf95e8112d77c0b0a62ce9fbe5eb58384b519f6
+SHA256: 153daec572fb91a1e59521c569c5c442997046df02abaf8f44b75d0247548f95
+SHA512: 9c546da25a8417005b0b12acd8f064612df0c926e8d6133c1c529516ac535206b97e3f2c888f7cf37fe63be683b569abf61c57eb5b5c234658b3889ac5ba8c93
 Homepage: https://github.com/2dust/v2rayN
 Description: v2rayN (Avalonia) GUI client for Linux
  Support vless / vmess / Trojan / http / socks / Anytls / Hysteria2 /
