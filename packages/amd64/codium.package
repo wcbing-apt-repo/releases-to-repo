@@ -1,21 +1,21 @@
 Package: codium
 Architecture: amd64
-Version: 1.135.06055
+Version: 1.140.06880
 Priority: optional
 Section: devel
 Maintainer: VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors
-Installed-Size: 694996
+Installed-Size: 611500
 Provides: visual-studio-codium
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.15), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.25), libc6 (>= 2.28), libc6 (>= 2.4), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.12.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 5.2), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
+Depends: ca-certificates, libasound2t64 (>= 1.2.12) | libasound2 (>= 1.0.17) | liboss4-salsa-asound2, libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.15), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.25), libc6 (>= 2.28), libc6 (>= 2.29), libc6 (>= 2.4), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.12.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 5.2), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1, bubblewrap, socat
 Conflicts: visual-studio-codium
 Replaces: visual-studio-codium
-Filename: https://github.com/VSCodium/vscodium/releases/download/1.135.06055/codium_1.135.06055_amd64.deb
-Size: 168033440
-MD5sum: d218f64a865126775a82007545b8fc27
-SHA1: c74e48b4718f4c11a6ce38e4cf1975b582f794d2
-SHA256: 5f5c00a9da9d232e4c84e9eee68bbdeb4d8737462022626ce3bdb6948f3d8649
-SHA512: 7b48a1e7257b43a2272c33ce5875f335458f3278754553f5c86c5913c485e8659e9f3fee79f320856d40b13c95419b09677d8085cdb36e40d072b9e89f891575
+Filename: https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_amd64.deb
+Size: 150645492
+MD5sum: 2c94ba215d0e6da351b13dc7bd9350f4
+SHA1: 4745ed800f45ea449d9dbb8650ae10980c92d5b6
+SHA256: 9521c5dbbef5b1f0b770910a48d6a60e9351cff08a70b5a4ce7868cebc2e2f21
+SHA512: a61f22d29a8f69f01318b415a041c193af60efd3844c0e876d946e59f0b8cdc8722c138eb7d5bade19c87762e3ea07155353cc38e4977b1e7f467036c075ea3e
 Homepage: https://vscodium.com/
 Description: Code editing. Redefined.
  VSCodium is a new choice of tool that combines the simplicity of
