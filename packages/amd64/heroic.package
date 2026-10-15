@@ -1,18 +1,18 @@
 Package: heroic
 Architecture: amd64
-Version: 2.22.3
+Version: 2.22.4
 Priority: optional
 Section: default
 Maintainer: Heroic Games Launcher <heroicgameslauncher@protonmail.com>
-Installed-Size: 378803
+Installed-Size: 378096
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.3/Heroic-2.22.3-linux-amd64.deb
-Size: 127528508
-MD5sum: 05794efe65938906f4b6b6ca22c69b04
-SHA1: 040d99ff6050329fdb124c6b3aa66c00b4f06575
-SHA256: f89eed7e0eb900fbe3051edfedbe7532db14328241cbf8c1fb766462dfc0b849
-SHA512: 708d34542241bc867c8f4cc597882e3b3e3cc540c891cc361a319eb8e4987eaab9fdab0e8fc35405efda40b44d3a12382d2899e3f53764d353644897a79a6a34
+Filename: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-linux-amd64.deb
+Size: 127567920
+MD5sum: 34078146f887c78d194d9531dc1d57da
+SHA1: 7c6566fe93d5e6d09640bb0b3c06760aa6e9ea16
+SHA256: 46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a
+SHA512: 2419fa8fe96b3d200952feebd026862e07422d8987cc64feab0ba3d970a207daad0d94620f4755414e8344cc8186dbf3e977347690cce265dcebc0bf471e5ef8
 Homepage: https://./
 Description: 
   An Open Source Launcher for GOG, Epic Games and Amazon Games
