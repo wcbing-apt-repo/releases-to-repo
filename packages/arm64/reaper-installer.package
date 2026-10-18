@@ -1,0 +1,24 @@
+Package: reaper-installer
+Architecture: arm64
+Version: 7.82
+Priority: optional
+Section: contrib/sound
+Maintainer: Huayuluoshi <2318494274@qq.com>
+Installed-Size: 20000
+Depends: wget | curl, tar, xz-utils, desktop-file-utils, xdg-utils
+Recommends: ca-certificates
+Filename: https://github.com/Huayuluoshi/reaper-installer/releases/download/v7.82/reaper-installer_7.82_arm64.deb
+Size: 4646
+MD5sum: 012b0c6af99d278efa436bd987f9bf53
+SHA1: 3cd5279f7cb71f73b016de2040a2425f34faab34
+SHA256: 5526932a64d95612253dae5ca740e800cf27fbf56e9c964539f41572367041d6
+SHA512: 18cbaac1ac19234385f06de57454d2d215672467b0193630fa711386449052f6ec9146adda47bebe1a92a788abdcbbebb9952c72d763541a75f56d8601692d2f
+Description: REAPER installer wrapper (downloads and runs official Linux installer)
+ This package does not contain REAPER itself. During configuration (postinst),
+ it downloads the official REAPER Linux tarball matching the host architecture
+ from reaper.fm, extracts it, and executes the official install-reaper.sh script
+ so the user can interact with the installer directly.
+ .
+ Removing this package attempts to run the official uninstall logic and
+ clean up REAPER files installed under the chosen prefix.
+
