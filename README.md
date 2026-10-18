@@ -25,7 +25,6 @@ sudo apt update
 | ----- | ---- | ----- | ----- |
 | [balenaEtcher](https://github.com/balena-io/etcher) | balena-etcher | ✅ | |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
-| [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
 | [小白羊 BoxPlayer](https://github.com/gaozhangmin/boxplayer) | boxplayer | ✅ | ✅ |
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
@@ -121,6 +120,7 @@ sudo apt update
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | --- | ----- | ----- |
+| [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | ✅ |
 | [Motrix](https://github.com/agalwood/Motrix) | motrix | ✅ | ✅ |
 | [Motrix Next](https://github.com/AnInsomniacy/motrix-next) <br>改名为 Rayburst | motrix-next | ✅ | ✅ |

@@ -12,13 +12,6 @@
             "arm64": "bat_{version}_arm64.deb"
         }
     },
-    "bongo-cat": {
-        "repo": "ayangweb/BongoCat",
-        "file_list": {
-            "amd64": "BongoCat_{version}_amd64.deb",
-            "arm64": "BongoCat_{version}_arm64.deb"
-        }
-    },
     "bottom": {
         "repo": "ClementTsang/bottom",
         "file_list": {
