@@ -71,7 +71,6 @@ sudo apt update
 | [LocalSend](https://github.com/localsend/localsend) | localsend | ✅ | ✅ |
 | [MarkText](https://github.com/marktext/marktext) | marktext | ✅ | |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
-| [Motrix Next](https://github.com/AnInsomniacy/motrix-next) | motrix-next | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
 | [Microsoft Edit](https://github.com/wcbing-apt-repo/msedit-debs)* | msedit | ✅ | ✅ |
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |
@@ -86,6 +85,7 @@ sudo apt update
 | [PDFsam Basic](https://github.com/torakiki/pdfsam) | pdfsam-basic | ✅ | |
 | [PeaZip](https://github.com/peazip/PeaZip) | peazip | ✅ | |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | powershell | ✅ | |
+| [Rayburst](https://github.com/AnInsomniacy/rayburst) | rayburst | ✅ | ✅ |
 | [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
 | [Reqable](https://github.com/reqable/reqable-app) | reqable | ✅ | |
 | [REAPER](https://github.com/Huayuluoshi/reaper-installer) | reaper-installer | ✅ | ✅ |
@@ -123,6 +123,7 @@ sudo apt update
 | ----- | --- | ----- | ----- |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | ✅ |
 | [Motrix](https://github.com/agalwood/Motrix) | motrix | ✅ | ✅ |
+| [Motrix Next](https://github.com/AnInsomniacy/motrix-next) <br>改名为 Rayburst | motrix-next | ✅ | ✅ |
 | [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | splayer | ✅ | ✅ |
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer) | sunnycapturer | ✅ | |
 | [Yolx](https://github.com/uiYzzi/Yolx) | yolx | ✅ | |
