@@ -449,7 +449,7 @@
     "reaper-installer": {
         "repo": "Huayuluoshi/reaper-installer",
         "file_list": {
-            "amd64": "reaper-installer_{releases_tag}_amd64.deb"
+            "amd64": "reaper-installer_{releases_tag}_amd64.deb",
             "arm64": "reaper-installer_{releases_tag}_arm64.deb"
         }
     },
