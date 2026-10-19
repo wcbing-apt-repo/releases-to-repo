@@ -1,17 +1,17 @@
 Package: dbeaver-ce
 Architecture: amd64
-Version: 26.2.2
+Version: 26.2.3
 Priority: extra
 Section: devel
 Maintainer: DBeaver Corp <support@dbeaver.com>
-Installed-Size: 207467
+Installed-Size: 208045
 Replaces: dbeaver-ce
-Filename: https://github.com/dbeaver/dbeaver/releases/download/26.2.2/dbeaver-ce-26.2.2-linux-x86_64.deb
-Size: 127539626
-MD5sum: 0b6c6e53adf51e58e7c06a4e7a9348d2
-SHA1: 1c3e43084338a6be23eca08f9ed548f7026851fc
-SHA256: 6f3255b4c9b9ff26548febb3a99c297e18d846741536e8a686ae689c70194e51
-SHA512: 237f21d0f31e5a41ce8542000f3e18aae978dcf932d0a4abbf593e7cb1062c423c830878183dedf3a257fdd1b7a57fad2f49f4eb400ebb8499ff68a368f3a98e
+Filename: https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-linux-x86_64.deb
+Size: 128128776
+MD5sum: 0cf92522d04ccfe82eb616b8122675ce
+SHA1: ddd3547c80ab0400c0b0530e50d192425abdeeaf
+SHA256: 66a9d989dc36bdaf71f95e4186efc022399c0dfcfb37e69034038502f2fb3d21
+SHA512: 0bc4497fc9d81c4deaa06650f38b9c86ab87a4ae3f3bb1d3ea6aec1b7bbc32bf2f95e4625a0ef5dd3792334fe20758f8b8023a94631253c7a5448a3ae60a9981
 Homepage: https://dbeaver.io/
 Description: DBeaver Community
  Universal Database Manager and SQL Client
