@@ -1,15 +1,15 @@
 Package: reqable
 Architecture: amd64
-Version: 3.3.1
+Version: 3.3.2
 Priority: optional
 Maintainer: Megatron King
 Depends: ca-certificates
-Filename: https://github.com/reqable/reqable-app/releases/download/3.3.1/reqable-app-linux-x86_64.deb
-Size: 32045404
-MD5sum: a1d65e50cad35025f64ae7681cf6d09c
-SHA1: 7b6de626647554b0a9fe0aa9db2b0c338e3dc52c
-SHA256: 88fabce4e054ad2ec2722419cc98cded4ae07b6008b77358b56c13c138d86c09
-SHA512: cbc356710a32d1d640be0ec2ee69590e9571b441f81965878ac3b3b3f1f447d78472a7fc417e00ff661faa0c9af81936cde7694ac32e913f9b1f2f17254e332a
+Filename: https://github.com/reqable/reqable-app/releases/download/3.3.2/reqable-app-linux-x86_64.deb
+Size: 32054532
+MD5sum: 51797be4a10848c2c0d2e3ebcc204b93
+SHA1: b610f077571cd6118580b0c098ca5b73172752b4
+SHA256: fb211f6123d2104d40fd5ac74937fe379018bf92101d256d211ceb15f26d3ac3
+SHA512: 9613e5672304ed52547c052136a0980cf50b1d6f3f8df6954a217bd9c5291f9702de98faf315ec4c1ae7451a5cec8498eda120a1ecb3566256723afebf286969
 Homepage: https://reqable.com/
 Description: Advanced HTTP Productivity Tools!
 
