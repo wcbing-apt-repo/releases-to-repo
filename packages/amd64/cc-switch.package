@@ -1,16 +1,16 @@
 Package: cc-switch
 Architecture: amd64
-Version: 4.0.16
+Version: 4.0.17
 Priority: optional
 Maintainer: Jason Young
-Installed-Size: 41129
+Installed-Size: 41172
 Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/farion1231/cc-switch/releases/download/v4.0.16/CC-Switch-v4.0.16-Linux-x86_64.deb
-Size: 17564036
-MD5sum: f4d51fa874a39fabecab88b677b2060e
-SHA1: 63253d33f3facbcb6c36323b54b12c98991b4a64
-SHA256: d86b9a889e7b81ed7e3430a27d31f055697a29330c993219273c7e3f954f639b
-SHA512: f911302ca99c12d8eb42dcba8afd4f8834a457f48c2b86e2728f627e277b49aece35197e11c95cc323e6f23771fac114d192db7a90cee9933b94d679211e305f
+Filename: https://github.com/farion1231/cc-switch/releases/download/v4.0.17/CC-Switch-v4.0.17-Linux-x86_64.deb
+Size: 17574004
+MD5sum: 7784cfb1b188ddfed1fe6ee99fcc2bef
+SHA1: 48078e1c1eb847049428995c63465486320194ba
+SHA256: f22b582327b847c38515348cfe2e0768efa447431912df9a3b8ac08868a92cbb
+SHA512: 542e86096c66d7a0ae78b1548d5839dfd42b1d7f7bb9281639f31410856db1b70824632d080ffdd56cfb15f8a3e65554a71a4109dd52ce030c7dda4cf95343b6
 Description: All-in-One Assistant for Claude Code, Codex & Gemini CLI
  (none)
 
