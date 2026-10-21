@@ -1,16 +1,16 @@
 Package: rayburst
 Architecture: amd64
-Version: 4.0.1
+Version: 4.1.0
 Priority: optional
 Maintainer: AnInsomniacy
-Installed-Size: 79406
+Installed-Size: 76528
 Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/AnInsomniacy/rayburst/releases/download/v4.0.1/Rayburst_4.0.1_amd64.deb
-Size: 29512962
-MD5sum: 8da7c7d1292d5ed5951b16f3de3a3297
-SHA1: a6e995b07d9512b3442c57cf12690b2686a99be9
-SHA256: c5f6e5ac73618541e59bd68fe7c1f90c4fca9f1c73bdbec95804b860a495bd88
-SHA512: 4b34f30ab3347897c4f5ccdb5cfc084d2e1e89cf32f260a5876710fcba3bd9b570e7fb59e81557bf091c05054cf722154b95ed362f61b97331d3cbeb304244cf
+Filename: https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.0/Rayburst_4.1.0_amd64.deb
+Size: 28483804
+MD5sum: 105ce95c051cde8ad34403861ef40d5e
+SHA1: 66dc594621d5bfe843cc03e205e0ce812339b1bb
+SHA256: 867802029cb36a6e1a0b698560faecb9273a8b4b4ab31a19cf201580b8915e01
+SHA512: 9ab1d3a7121a2f8a1b9be008ed8fd1bf12d14e2822e98ddf5bc3ea1d9717f5f6b9ca7d38eaa0bf0460f5dd29786c808ec7f9c64d880ccc7b05edcc211361a413
 Description: A full-featured download manager
  (none)
 
