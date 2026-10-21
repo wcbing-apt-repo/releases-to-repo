@@ -1,5 +1,5 @@
 {
-    "balena-etcher": "v2.1.7",
+    "balena-etcher": "v2.1.8",
     "bat": "v0.26.1",
     "bongo-cat": "v1.1.0",
     "bottom": "0.14.9",
@@ -7,11 +7,11 @@
     "cherrystudio": "v2.1.7",
     "chezmoi": "v2.73.3",
     "clash-verge": "v2.5.8",
-    "cloudflared": "2026.10.2",
+    "cloudflared": "2026.10.3",
     "cn.classisland.app": "2.1.0.1",
     "code-server": "v4.141.0",
     "codium": "1.140.06880",
-    "cryptomator": "1.19.3",
+    "cryptomator": "1.19.4",
     "dbeaver-ce": "26.2.3",
     "draw.io": "v32.5.5",
     "du-dust": "v1.2.6",
@@ -90,7 +90,7 @@
     "v2rayn": "7.25.6",
     "cc-switch": "v4.0.17",
     "fresco": "v1.1.50",
-    "reqable": "3.3.3",
+    "reqable": "3.3.4",
     "rayburst": "v4.1.0",
     "reaper-installer": "v7.82"
 }
