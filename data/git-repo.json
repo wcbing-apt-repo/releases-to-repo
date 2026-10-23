@@ -275,6 +275,13 @@
             "amd64": "Joplin-{version}.deb"
         }
     },
+    "kazumi": {
+        "repo": "Predidit/Kazumi",
+        "file_list": {
+            "amd64": "Kazumi_linux_{version}_amd64.deb",
+            "arm64": "Kazumi_linux_{version}_arm64.deb"
+        }
+    },
     "koodo-reader": {
         "repo": "koodo-reader/koodo-reader",
         "file_list": {
