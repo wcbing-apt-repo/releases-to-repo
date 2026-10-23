@@ -1,0 +1,20 @@
+Package: Kazumi
+Architecture: arm64
+Version: 2.4.2
+Priority: optional
+Essential: no
+Section: x11
+Maintainer: madoka773 <valigarmanda55@gmail.com>
+Installed-Size: 90572
+Depends: libayatana-appindicator3-1,
+         gir1.2-ayatanaappindicator3-0.1,
+         libwebkit2gtk-4.1-0
+Filename: https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb
+Size: 33755068
+MD5sum: 2de73384c49a979bb1144457cc63de3e
+SHA1: f6d59896a15364173c1c7e93af0acedb8b93ff4c
+SHA256: f971f6dd040b2dfab1194f45e772f703f6c6377baafd1d1806081f7ff69a7f2e
+SHA512: 91af0a07d55f4cb94a530c0459a2fcaceaef644cbddb1e10dfd167e46ea6ffaafcc6fa4efb6f505abdb4ccd8d15fc3e1e90f5b998067e3271ae489f4fc784d16
+Homepage: https://github.com/Predidit/Kazumi
+Description: Watch Animes online with danmaku support.
+

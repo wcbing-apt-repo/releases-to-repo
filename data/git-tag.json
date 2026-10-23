@@ -88,9 +88,10 @@
     "dbx": "v0.6.52",
     "v2raya": "v2.5.10",
     "v2rayn": "7.25.6",
-    "cc-switch": "v4.0.18",
+    "cc-switch": "v4.0.19",
     "fresco": "v1.1.50",
     "reqable": "3.3.4",
     "rayburst": "v4.1.0",
-    "reaper-installer": "v7.82"
+    "reaper-installer": "v7.82",
+    "kazumi": "2.4.2"
 }
