@@ -63,6 +63,7 @@ sudo apt update
 | [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
 | [hugo](https://github.com/gohugoio/hugo) | hugo | ✅ | ✅ |
 | [Joplin](https://github.com/laurent22/joplin) | joplin | ✅ | |
+| [Kazumi](https://github.com/Predidit/Kazumi) | kazumi | ✅ | ✅ |
 | [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | koodo-reader | ✅ | ✅ |
 | [Kula](https://github.com/c0m4r/kula) | kula | ✅ | ✅ |
 | [Lazydocker](https://github.com/wcbing-apt-repo/lazydocker-debs)* | lazydocker | ✅ | ✅ |
