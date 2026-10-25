@@ -80,7 +80,7 @@
     "frpc-desktop": "v1.2.7",
     "motrix-next": "v3.9.9",
     "boxplayer": "v5.0.37",
-    "tssh": "v0.1.26",
+    "tssh": "v0.1.27",
     "marktext": "v0.23.0",
     "chsrc": "v0.2.7",
     "escrcpy": "v3.3.1",
@@ -91,7 +91,7 @@
     "cc-switch": "v4.0.20",
     "fresco": "v1.1.51",
     "reqable": "3.3.5",
-    "rayburst": "v4.1.0",
+    "rayburst": "v4.1.1",
     "reaper-installer": "v7.82",
     "kazumi": "2.4.2"
 }
