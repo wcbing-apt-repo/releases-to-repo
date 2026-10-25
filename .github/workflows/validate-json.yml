@@ -1,0 +1,16 @@
+name: Validate json
+
+on:
+  pull_request:
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-slim
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check JSON syntax of git-repo.json
+        run: python3 -m json.tool data/git-repo.json > /dev/null
