@@ -7,11 +7,18 @@ on:
 
 jobs:
   update-packages:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     permissions:
       contents: write
-    
+
     steps:
+      - name: Set up Python Requests
+        run: |
+            if ! python3 -c "import requests" >/dev/null 2>&1; then
+              echo "Python requests is not installed. Installing..."
+              pip3 install requests
+            fi
+
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
@@ -59,7 +66,7 @@ jobs:
 
       - name: Create Release
         if: steps.changes.outputs.changed == 'true'
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v3
         with:
           name: Release ${{ env.RELEASE_NAME }}
           tag_name: ${{ env.RELEASE_NAME }}
