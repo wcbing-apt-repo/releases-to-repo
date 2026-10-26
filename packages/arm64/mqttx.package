@@ -1,18 +1,18 @@
 Package: mqttx
 Architecture: arm64
-Version: 1.13.1
+Version: 1.13.2
 Priority: optional
 Section: default
 Maintainer: EMQX Team <yusf@emqx.io>
-Installed-Size: 357946
+Installed-Size: 363926
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/emqx/MQTTX/releases/download/v1.13.1/MQTTX_1.13.1_arm64.deb
-Size: 85751202
-MD5sum: 3fc3d3a3559fcdec2cf67686cb194c1b
-SHA1: a2c0aa81c0cc1f2a75e5960e2ac08ab64634ac6d
-SHA256: 36c9142574071191993706512e1b5b60a33b4a44ac9a514215fa34e1bbfa9f6a
-SHA512: 157c4ca8e0bdbc34a5f8efbb115fd24295ed36e82ce88bb6f4b5e68c914a7dce71acee92ca1749293299449a35f3c2b91b97e1c7f6103a4cec705992c959fa8c
+Filename: https://github.com/emqx/MQTTX/releases/download/v1.13.2/MQTTX_1.13.2_arm64.deb
+Size: 86535266
+MD5sum: d2349e96bfe0971deefb01850ff95b80
+SHA1: 0bf85c3a52a4e609a887be6999758ce835f1c161
+SHA256: 74f408fca2fc724b7a137957cf058d786b171b0ed7563acb479a8c5321d567f6
+SHA512: 7aad7aad5f1fcd0bf68285c7398656f4266a23c799c250e23fc1380f380717e4845d9d221ef344b495994c64e50ab1397bd7a6c99a59d5fc35673503334ac6e6
 Homepage: https://github.com/emqx/MQTTX#readme
 Description: 
   MQTT desktop client
