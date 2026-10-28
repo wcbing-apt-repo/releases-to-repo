@@ -1,18 +1,18 @@
 Package: cryptomator
 Architecture: amd64
-Version: 1.19.4-0ppa1
+Version: 1.19.5-0ppa1
 Priority: optional
 Section: utils
 Maintainer: Cryptobot <releases@cryptomator.org>
-Installed-Size: 141954
+Installed-Size: 137652
 Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.35), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgl1, libglib2.0-0 (>= 2.51.2), libgtk-3-0 (>= 3.20.0), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6, libxext6, libxi6, libxrender1, libxtst6, libxxf86vm1, zlib1g (>= 1:1.2.3.4), fuse3
 Recommends: gvfs-backends, gvfs-fuse, gnome-keyring
-Filename: https://github.com/cryptomator/cryptomator/releases/download/1.19.4/cryptomator_1.19.4-0ppa1_amd64.deb
-Size: 52312736
-MD5sum: a230c3672d00484777adbc3708416cea
-SHA1: 8390fed7e0a761b4606c079e38294c72c4eb19f4
-SHA256: 6092d2c417c3735eab9b7e882c756fe1984de35994bc05f446373854cfe36a02
-SHA512: 3a0debe949a95fe71ac24d62d43690ca9de9ac5d6b6bedee41c1bc9425ab3a43ad7acc22cb36d2ee3f559d35fc2f6607c869429346dae1cb012f4ed42aa6e5e6
+Filename: https://github.com/cryptomator/cryptomator/releases/download/1.19.5/cryptomator_1.19.5-0ppa1_amd64.deb
+Size: 48789360
+MD5sum: 77cf13c7da59ad31cdb23ccbfacdcf8d
+SHA1: 0e13a5eea51f1027b71defafcd818db5de67e5da
+SHA256: 17edc9a21069d71c9cdb362454782f31ba7a2124c942785e94617fed4d4d9508
+SHA512: 36851f0eea61441f4f3ab7bd2cbc8ca18c1ebbbd0b779f9bbdb6d4fecbb6154fef3db862e1f128bb674637257c7702c58c4725942c5bed4e3a43c9893aee4159
 Homepage: https://cryptomator.org
 Description: Multi-platform client-side encryption of your cloud files.
  Cryptomator provides free client-side AES encryption for your cloud files.
