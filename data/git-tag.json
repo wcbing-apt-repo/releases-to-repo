@@ -24,7 +24,7 @@
     "grpcurl": "v1.9.4",
     "hiddify": "v4.1.1",
     "hoppscotch": "v26.9.0-0",
-    "hugo": "v0.168.0",
+    "hugo": "v0.169.0",
     "joplin": "v3.7.21",
     "koodo-reader": "v2.4.6",
     "localsend": "v1.18.2",
@@ -90,7 +90,7 @@
     "v2rayn": "7.25.6",
     "cc-switch": "v4.0.21",
     "fresco": "v1.1.52",
-    "reqable": "3.3.5",
+    "reqable": "3.3.6",
     "rayburst": "v4.1.1",
     "reaper-installer": "v7.83",
     "kazumi": "2.4.2"
