@@ -6,11 +6,11 @@ Section: web
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 4100
 Filename: https://github.com/wcbing-deb-packager/dufs-debs/releases/download/v0.47.0/dufs_0.47.0+1_amd64.deb
-Size: 1677044
-MD5sum: 30edb410462a06c6960c7b6ae0968d94
-SHA1: 308513e7ef7df2b0bef60dbe389de5762a77c1e3
-SHA256: 5137505c12cd168780e1744c582560b7819f1a4f626bfa2dae0032b549f14acb
-SHA512: 679a3d7a994e24d078ba1249d232335a0b8d57cab578b1e68f34aed046f630d347f1d44ffea4a9822f87fb45d5dc9547439a34bd3f67856c9052a95cead878eb
+Size: 1677164
+MD5sum: b8e013e5aac52b54e91b2b85ff055ab4
+SHA1: 7184c7b045b3f790f119dfb396168f34e743cb55
+SHA256: 4b439de01ef0b7ec9555732fe375038f58f6ade5096b7b86af28687f04be8cd3
+SHA512: b1a847722590c6ede04687ad66a542311b03815971e35d4328ced5a493d0aa9cec5507c29ec53fc5e7263a31d16aed3b54872be9d12dbb45c051ef30207d2eb7
 Homepage: https://github.com/sigoden/dufs
 Description: A file server
  A file server that supports static serving, uploading,
