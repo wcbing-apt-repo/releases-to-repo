@@ -2,32 +2,32 @@ name: Update Packages
 
 on:
   schedule:
-    - cron: '40 2,6,10,22 * * *'  # 6,10,14,18 40 运行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: "40 2,6,10,22 * * *" # 6,10,14,18 40 运行一次
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update-packages:
     runs-on: ubuntu-slim
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Set up Python Requests
         run: |
-            if ! python3 -c "import requests" >/dev/null 2>&1; then
-              echo "Python requests is not installed. Installing..."
-              pip3 install requests
-            fi
+          if ! python3 -c "import requests" >/dev/null 2>&1; then
+            echo "Python requests is not installed. Installing..."
+            pip3 install requests
+          fi
 
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - name: Run
+      - name: Check for package updates
         # 将脚本 print（stdout）写入 release_notes 文件，以便作为 release 的正文。
         # 脚本中的 logging (stderr) 将不会被重定向，仍会打印到 job 日志。
-        run: |
-          ./get-git-releases.py > release_notes
+        run: ./get-git-releases.py > release_notes
 
       - name: Check for changes
         id: changes
@@ -47,32 +47,10 @@ jobs:
           git commit -m "[CI] Update packages"
           git push
 
-      - name: Generate Packages and Release files, import GPG key and sign Release
+      - name: Trigger release workflow
         if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          cat $(find packages -name "*.package") > Packages
-          apt-ftparchive release . > Release
-          if [ -z "${{ secrets.GPG_KEY }}" ]; then
-            echo "Error: GPG_KEY secret is not set"
-            exit 1
-          fi
-          echo "${{ secrets.GPG_KEY }}" | gpg --import
-          gpg --yes --clearsign -o InRelease Release
-
-      - name: Set release name
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          echo "RELEASE_NAME=$(TZ='Asia/Shanghai' date -u +%Y%m%d-%H%M)" >> $GITHUB_ENV
-
-      - name: Create Release
-        if: steps.changes.outputs.changed == 'true'
-        uses: softprops/action-gh-release@v3
-        with:
-          name: Release ${{ env.RELEASE_NAME }}
-          tag_name: ${{ env.RELEASE_NAME }}
-          files: |
-            Packages
-            Release
-            InRelease
-          # 使用脚本产生的 release_notes 文件作为 Release 的正文
-          body_path: release_notes
+          gh workflow run release.yml --ref "$GITHUB_REF_NAME" \
+            --field release_notes="$(cat release_notes)"

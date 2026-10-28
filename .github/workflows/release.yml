@@ -1,0 +1,50 @@
+name: Update Releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_notes:
+        description: Release notes produced by the package update workflow
+        required: false
+        type: string
+        default: ""
+
+jobs:
+  release:
+    runs-on: ubuntu-slim
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate Packages and Release files
+        run: |
+          find packages -name "*.package" -print0 | sort -z | xargs -0 cat > Packages
+          apt-ftparchive release . > Release
+
+      - name: Sign Release
+        env:
+          GPG_KEY: ${{ secrets.GPG_KEY }}
+        run: |
+          if [[ -z "$GPG_KEY" ]]; then
+            echo "Error: GPG_KEY secret is not set" >&2
+            exit 1
+          fi
+          printf '%s' "$GPG_KEY" | gpg --import
+          gpg --yes --clearsign -o InRelease Release
+
+      - name: Set release name
+        run: |
+          echo "RELEASE_NAME=$(TZ='Asia/Shanghai' date +%Y%m%d-%H%M%S)" >> "$GITHUB_ENV"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v3
+        with:
+          name: Release ${{ env.RELEASE_NAME }}+08:00
+          tag_name: ${{ env.RELEASE_NAME }}
+          files: |
+            Packages
+            Release
+            InRelease
+          body: ${{ inputs.release_notes }}
