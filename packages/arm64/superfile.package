@@ -5,7 +5,7 @@ Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 25364
-Filename: https://github.com/wcbing-apt-repo/superfile-debs/releases/download/v1.6.0/superfile_1.6.0+1_arm64.deb
+Filename: https://github.com/wcbing-deb-packager/superfile-debs/releases/download/v1.6.0/superfile_1.6.0+1_arm64.deb
 Size: 10413664
 MD5sum: 7b2c4370099fff071908b593798a2706
 SHA1: 07cedc5cadb1cc5f9a471e00e58908bac4401e01

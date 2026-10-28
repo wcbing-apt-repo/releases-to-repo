@@ -6,7 +6,7 @@ Section: utils
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 20172
 Depends: git
-Filename: https://github.com/wcbing-apt-repo/lazygit-debs/releases/download/v0.66.2/lazygit_0.66.2+1_amd64.deb
+Filename: https://github.com/wcbing-deb-packager/lazygit-debs/releases/download/v0.66.2/lazygit_0.66.2+1_amd64.deb
 Size: 5367868
 MD5sum: 6b0aa208c56a5e51993411be3e255412
 SHA1: df15684590cc48a3a097e52db04fb9263aac11da

@@ -5,7 +5,7 @@ Priority: optional
 Section: editors
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 356
-Filename: https://github.com/wcbing-apt-repo/msedit-debs/releases/download/v2.0.0/msedit_2.0.0+1_amd64.deb
+Filename: https://github.com/wcbing-deb-packager/msedit-debs/releases/download/v2.0.0/msedit_2.0.0+1_amd64.deb
 Size: 127696
 MD5sum: 58759d8195c2d1330dd11c10c5bd0251
 SHA1: 43917f62756abff00f0a6b23074227738bc814a2

@@ -5,7 +5,7 @@ Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 71704
-Filename: https://github.com/wcbing-apt-repo/filebrowser-debs/releases/download/v2.63.23/filebrowser_2.63.23+1_amd64.deb
+Filename: https://github.com/wcbing-deb-packager/filebrowser-debs/releases/download/v2.63.23/filebrowser_2.63.23+1_amd64.deb
 Size: 24792976
 MD5sum: f0857e97e8bc1d198795d74cb52d93da
 SHA1: 7dcd038053b98f093c136a4742f84dc2967efb0d

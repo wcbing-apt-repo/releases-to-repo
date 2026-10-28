@@ -129,7 +129,7 @@
         }
     },
     "dufs": {
-        "repo": "wcbing-apt-repo/dufs-debs",
+        "repo": "wcbing-deb-packager/dufs-debs",
         "file_list": {
             "amd64": "dufs_{version}+1_amd64.deb",
             "arm64": "dufs_{version}+1_arm64.deb"
@@ -164,7 +164,7 @@
         }
     },
     "filebrowser": {
-        "repo": "wcbing-apt-repo/filebrowser-debs",
+        "repo": "wcbing-deb-packager/filebrowser-debs",
         "file_list": {
             "amd64": "filebrowser_{version}+1_amd64.deb",
             "arm64": "filebrowser_{version}+1_arm64.deb"
@@ -203,14 +203,14 @@
         }
     },
     "frpc": {
-        "repo": "wcbing-apt-repo/frp-debs",
+        "repo": "wcbing-deb-packager/frp-debs",
         "file_list": {
             "amd64": "frpc_{version}+1_amd64.deb",
             "arm64": "frpc_{version}+1_arm64.deb"
         }
     },
     "frps": {
-        "repo": "wcbing-apt-repo/frp-debs",
+        "repo": "wcbing-deb-packager/frp-debs",
         "file_list": {
             "amd64": "frps_{version}+1_amd64.deb",
             "arm64": "frps_{version}+1_arm64.deb"
@@ -256,7 +256,7 @@
         }
     },
     "himalaya": {
-        "repo": "wcbing-apt-repo/himalaya-debs",
+        "repo": "wcbing-deb-packager/himalaya-debs",
         "file_list": {
             "amd64": "himalaya_{version}+1_amd64.deb",
             "arm64": "himalaya_{version}+1_arm64.deb"
@@ -297,14 +297,14 @@
         }
     },
     "lazydocker": {
-        "repo": "wcbing-apt-repo/lazydocker-debs",
+        "repo": "wcbing-deb-packager/lazydocker-debs",
         "file_list": {
             "amd64": "lazydocker_{version}+1_amd64.deb",
             "arm64": "lazydocker_{version}+1_arm64.deb"
         }
     },
     "lazygit": {
-        "repo": "wcbing-apt-repo/lazygit-debs",
+        "repo": "wcbing-deb-packager/lazygit-debs",
         "file_list": {
             "amd64": "lazygit_{version}+1_amd64.deb",
             "arm64": "lazygit_{version}+1_arm64.deb"
@@ -351,7 +351,7 @@
         }
     },
     "msedit": {
-        "repo": "wcbing-apt-repo/msedit-debs",
+        "repo": "wcbing-deb-packager/msedit-debs",
         "file_list": {
             "amd64": "msedit_{version}+1_amd64.deb",
             "arm64": "msedit_{version}+1_arm64.deb"
@@ -364,7 +364,7 @@
         }
     },
     "neovide": {
-        "repo": "wcbing-apt-repo/neovide-debs",
+        "repo": "wcbing-deb-packager/neovide-debs",
         "file_list": {
             "amd64": "neovide_{version}+1_amd64.deb"
         }
@@ -482,7 +482,7 @@
         }
     },
     "superfile": {
-        "repo": "wcbing-apt-repo/superfile-debs",
+        "repo": "wcbing-deb-packager/superfile-debs",
         "file_list": {
             "amd64": "superfile_{version}+1_amd64.deb",
             "arm64": "superfile_{version}+1_arm64.deb"

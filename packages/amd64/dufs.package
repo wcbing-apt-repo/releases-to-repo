@@ -5,7 +5,7 @@ Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 4100
-Filename: https://github.com/wcbing-apt-repo/dufs-debs/releases/download/v0.47.0/dufs_0.47.0+1_amd64.deb
+Filename: https://github.com/wcbing-deb-packager/dufs-debs/releases/download/v0.47.0/dufs_0.47.0+1_amd64.deb
 Size: 1677044
 MD5sum: 30edb410462a06c6960c7b6ae0968d94
 SHA1: 308513e7ef7df2b0bef60dbe389de5762a77c1e3
