@@ -1,19 +1,19 @@
 Package: fresco
 Architecture: amd64
-Version: 1.1.52-1
+Version: 1.1.53-1
 Priority: optional
 Section: video
 Maintainer: Dibbayajyoti Roy <maromaromuje28@gmail.com>
-Installed-Size: 23811
+Installed-Size: 23897
 Depends: ffmpegthumbnailer, libadwaita-1-0 (>= 1.1), libegl1, libgl1, libglib2.0-bin, libgtk-4-1 (>= 4.6), libgtk-4-media-gstreamer, libmpv2 | libmpv1, libwayland-client0, libwayland-egl1
 Recommends: mesa-va-drivers, intel-media-va-driver, fonts-inter, fonts-noto-core, gstreamer1.0-plugins-good, gstreamer1.0-libav, ffmpeg, pulseaudio-utils | pipewire-bin, xdg-utils, pkexec | policykit-1, qml6-module-qtmultimedia
 Suggests: xsecurelock
-Filename: https://github.com/DibbayajyotiRoy/Fresco/releases/download/v1.1.52/fresco_1.1.52-1_amd64.deb
-Size: 6812752
-MD5sum: f7c8a74c010520da17091c1153a71c85
-SHA1: bc9310928be6826908c409683c58d9cfd7d962bf
-SHA256: bb19b347e86dffe854a2e0b5f60976caa1bc2fa69890a51990a77b75ab45bf37
-SHA512: efb0106596fe744de90e41442988940aeecc42dabd7968bb08a854002a0675fb3abfeefe2c89e3c3ed438bd6e2685fc2c3f27fbe015d637862476421fc9a04d5
+Filename: https://github.com/DibbayajyotiRoy/Fresco/releases/download/v1.1.53/fresco_1.1.53-1_amd64.deb
+Size: 6834596
+MD5sum: 6560c77a45165e00f3b77f8bae93fda3
+SHA1: cd9960d77be77d791bf47b966e72d6c407edb7da
+SHA256: 23e7acaa76452d6ee3483e3f9d804ed881f6010c5419e1f191afe825618740fd
+SHA512: 481b04dc2fb0da970112d48e55f3674a0b18cee497c4d2ef1414303812a8bc95469cf6e51615d21e3627b66cd1e75cd16cbb25bb8ee35b7b3347b4cba21c834c
 Homepage: https://github.com/DibbayajyotiRoy/fresco
 Description: Live wallpapers for Linux — video, GIF, image, slideshow, and playlist
  wallpapers with hardware-accelerated playback
