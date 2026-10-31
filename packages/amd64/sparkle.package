@@ -1,18 +1,18 @@
 Package: sparkle
 Architecture: amd64
-Version: 1.26.9
+Version: 1.26.10
 Priority: optional
 Section: default
 Maintainer: xishang0128 <xishang02@gmail.com>
-Installed-Size: 535225
+Installed-Size: 525658
 Depends: libasound2, libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/xishang0128/sparkle/releases/download/1.26.9/sparkle-linux-1.26.9-amd64.deb
-Size: 170901912
-MD5sum: b474eae4de1ab0e29612830dc2a41857
-SHA1: efb0e2a33bd4ebba0024632e011c593fa185445d
-SHA256: e1ccfdb653faa850a25d898428003adc017389a56b82b1fb497d378fa4b43b19
-SHA512: 8f386f6207ad3fe8ef4fc61bea70679d64db3605c6d8a0e723979d544b4b2adb4bcba922b270859bbc55b7c2a128c6950f3a550303e82895c17e3c64036ee23c
+Filename: https://github.com/xishang0128/sparkle/releases/download/1.26.10/sparkle-linux-1.26.10-amd64.deb
+Size: 174323388
+MD5sum: e3dc9c0e719dc2df8187c8f4e3de47da
+SHA1: 4f12129876f08e9c784f70d54d041168e9d4beaa
+SHA256: e317eff80b36a4ee59d769068415d506e09760bffba18ab690d6cf621f818c98
+SHA512: 2b378c6e9df20304bbbde5bd071c8876ba620c526d659b3917c6a97273afa7725187a3dfe284482d70be676addaeda82d1c348459bba7bcba493e51d3daeb175
 Homepage: https://github.com/xishang0128/sparkle
 Description: 
   Sparkle
