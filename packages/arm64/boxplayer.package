@@ -1,18 +1,18 @@
 Package: boxplayer
 Architecture: arm64
-Version: 5.0.37
+Version: 5.0.38
 Priority: optional
 Section: default
 Maintainer: gaozhangmin <gaozhangmin@gmail.com>
-Installed-Size: 776748
+Installed-Size: 776902
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.37/boxplayer-5.0.37-linux-arm64.deb
-Size: 238684932
-MD5sum: 2d2e4031f49821aee2fa8b18fb32f201
-SHA1: 293bfd4a6f3bda76ab94dc3418a2381012104ef0
-SHA256: 9833fe9683ac64c8842fe53c71f320aadac35346ce7609d208d4d72e654410ad
-SHA512: 5431ff25f6c5f290dd295b6a87629ff799e9f217659432bc734ec8357f721f847fa265fdee3be7fd3079e540cbb8de98359af560626fdbeac3b5f58377327ad5
+Filename: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.38/boxplayer-5.0.38-linux-arm64.deb
+Size: 238821212
+MD5sum: 18d0b20134fe17a6d81a93e4274c8e2c
+SHA1: c8dabc02d230762774f43c292ce96a89ec897b3b
+SHA256: 0068ae26e131b6b7748ca545414a5cb460f6711e901438713b53534cfb4b85b5
+SHA512: c2368beec09a617cc3ab70e3c423709894bd3a9e19ca685cb06788b2e493fce4fe3a56c15d05c8b8e1c5bf896627ebdae0311d43724287b5a2082f8fea0ee425
 Homepage: https://github.com/gaozhangmin/boxplayer
 Description: 
   BoxPlayer
