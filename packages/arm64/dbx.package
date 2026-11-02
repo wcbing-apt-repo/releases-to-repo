@@ -5,7 +5,7 @@ Priority: optional
 Maintainer: skyler
 Installed-Size: 89900
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/t8y2/dbx/releases/download/v0.6.64-beta.20261102.1/DBX_0.6.64-beta.20261102.1_arm64.deb
+Filename: https://github.com/t8y2/dbx/releases/download/v0.6.64/DBX_0.6.64_arm64.deb
 Size: 47417146
 MD5sum: 2f9a64ac9481d0eab3c4680041282fe2
 SHA1: 10783589545ae2d52f12dfa0350eb119786d9377
