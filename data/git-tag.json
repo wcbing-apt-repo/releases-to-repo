@@ -29,13 +29,13 @@
     "koodo-reader": "v2.4.6",
     "localsend": "v1.18.2",
     "mihomo": "v1.19.33",
-    "mqttx": "v1.13.2",
+    "mqttx": "v1.13.3",
     "musicfree": "v0.0.8",
     "neovim": "v0.12.5",
     "obsidian": "v1.15.0",
     "onlyoffice-desktopeditors": "v10.0.0",
     "pandoc": "3.13",
-    "pdfsam-basic": "v6.0.9",
+    "pdfsam-basic": "v6.0.10",
     "peazip": "11.4.0",
     "rclone": "v1.75.2",
     "rustdesk": "1.5.1",
@@ -90,8 +90,8 @@
     "v2rayn": "7.25.6",
     "cc-switch": "v4.0.25",
     "fresco": "v1.1.54",
-    "reqable": "3.3.9",
+    "reqable": "3.3.10",
     "rayburst": "v4.1.1",
     "reaper-installer": "v7.84",
-    "kazumi": "2.4.2"
+    "kazumi": "2.4.3"
 }
