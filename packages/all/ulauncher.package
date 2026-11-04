@@ -1,18 +1,18 @@
 Package: ulauncher
 Architecture: all
-Version: 5.16.2
+Version: 5.16.3
 Priority: extra
 Section: python
 Maintainer: Aleksandr Gornostal <ulauncher.app@gmail.com>
-Installed-Size: 6154
+Installed-Size: 6153
 Depends: python3-pyinotify, python3:any (>= 3.5~), libkeybinder-3.0-0, libgtk-3-0 (>= 3.10), gir1.2-gtk-3.0, gir1.2-keybinder-3.0 (>= 0.3), gir1.2-webkit2-4.1 | gir1.2-webkit2-4.0, gir1.2-glib-2.0, gir1.2-notify-0.7, gir1.2-gdkpixbuf-2.0, python3-gi, python3-gi-cairo, python3-dbus, python3-levenshtein, python3-websocket, python3-xdg, wmctrl
 Recommends: gir1.2-ayatanaappindicator3-0.1
-Filename: https://github.com/Ulauncher/Ulauncher/releases/download/5.16.2/ulauncher_5.16.2_all.deb
-Size: 1862190
-MD5sum: d2d3aa4c6daab389676923fefc567e45
-SHA1: 82e86bfcf2f7a9c51609b5717aa503f3b7033078
-SHA256: e6bd4f55a71daf4d3f5bd1a0f8d11d04c80c536938dde4ba3ccc8849049fe788
-SHA512: 1c73d6fca84d15bc1c421004c46740641b8538b8cd1703c1f5afbb8dbe44616836bec7c21f5eff36b74f5e31d131e2d7656f111ee83544aff295600d5bf10ff3
+Filename: https://github.com/Ulauncher/Ulauncher/releases/download/5.16.3/ulauncher_5.16.3_all.deb
+Size: 1862096
+MD5sum: 454be5a8304287ac5a7471f1746ae39d
+SHA1: c6c39b2a132b875cec6532fb819830dd89074504
+SHA256: f56f16e3e435d043d562c8fa5cd8bc9d5210bedcd5b01271d546c77e4465a143
+SHA512: 0f14b6c745e00f545b83d88298e97b38a0abe8b9d912dcbc83f9086c9bfe158124fc8a85feaad66575f2decdabf8b8572fec3ec4ec0a593aad9500d14e25cb49
 Homepage: https://ulauncher.io/
 Description: Application launcher for Linux
  See https://ulauncher.io for more information
