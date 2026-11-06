@@ -163,13 +163,6 @@
             "arm64": "fastfetch-linux-aarch64.deb"
         }
     },
-    "filebrowser": {
-        "repo": "wcbing-deb-packager/filebrowser-debs",
-        "file_list": {
-            "amd64": "filebrowser_{version}+1_amd64.deb",
-            "arm64": "filebrowser_{version}+1_arm64.deb"
-        }
-    },
     "flclash": {
         "repo": "chen08209/FlClash",
         "file_list": {

@@ -47,7 +47,6 @@ sudo apt update
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | edrlab.thoriumreader | ✅ | ✅ |
 | [Escrcpy](https://github.com/viarotel-org/escrcpy) | escrcpy | ✅ | ✅ |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
-| [File Browser](https://github.com/wcbing-deb-packager/filebrowser-debs)* | filebrowser | ✅ | ✅ |
 | [FlClash](https://github.com/chen08209/FlClash) | flclash | ✅ | ✅ |
 | [Foliate](https://github.com/johnfactotum/foliate) | foliate | ✅ | ✅ |
 | [fooyin](https://github.com/fooyin/fooyin) | fooyin | ✅ | |
@@ -122,6 +121,7 @@ sudo apt update
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | --- | ----- | ----- |
 | [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
+| [File Browser](https://github.com/wcbing-deb-packager/filebrowser-debs)* | filebrowser | ✅ | ✅ |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | ✅ |
 | [Motrix](https://github.com/agalwood/Motrix) | motrix | ✅ | ✅ |
 | [Motrix Next](https://github.com/AnInsomniacy/motrix-next) <br>改名为 Rayburst | motrix-next | ✅ | ✅ |
