@@ -1,17 +1,17 @@
 Package: neovide
 Architecture: amd64
-Version: 0.16.2+1
+Version: 0.17.2+1
 Priority: optional
 Section: editors
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 35380
+Installed-Size: 36648
 Depends: neovim
-Filename: https://github.com/wcbing-deb-packager/neovide-debs/releases/download/0.16.2/neovide_0.16.2+1_amd64.deb
-Size: 9477224
-MD5sum: 6e31df6d7c7102baee1e88f21201262a
-SHA1: 00cd580e7702cdab3757ff522f9213c74e028a88
-SHA256: bfaf0fce855252cbfcb7af3cc3c32bbe59e9a732e1252557355c60564dc2cd24
-SHA512: 96388cd1da0b2ed7fcc456ee98821acc627d29d3b2c72a2a7aa76f36ea66c3ae42602c0200a7b7169eb3723f01872af92b8507ec602867cc465b1445a6d29564
+Filename: https://github.com/wcbing-deb-packager/neovide-debs/releases/download/0.17.2/neovide_0.17.2+1_amd64.deb
+Size: 9846860
+MD5sum: 82c295a1fcd10852d5961517dceaae3e
+SHA1: 1a9f1e50e62f8512ef1b3115afa7dd21a3a7296e
+SHA256: c0030fb8752653ec018a6f621b779e8eeff0fe017deb3504d641fc0de4b1dae1
+SHA512: ad9c3da5875c4952665dc53e8ce1a1f5e89d8f02cd9853c98172159210dd34958f949f79e53448a7dfb46724308073c5e7c10e8eb1fb7659f5a36ea8df9bfa9b
 Homepage: https://github.com/neovide/neovide
 Description: This is a simple graphical user interface for Neovim
  (an aggressively refactored and updated Vim editor). 

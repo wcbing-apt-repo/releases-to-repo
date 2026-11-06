@@ -1,16 +1,16 @@
 Package: frpc
 Architecture: arm64
-Version: 0.71.1+1
+Version: 0.72.0+1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 14688
-Filename: https://github.com/wcbing-deb-packager/frp-debs/releases/download/v0.71.1/frpc_0.71.1+1_arm64.deb
-Size: 4106256
-MD5sum: ffdbfcbe48ae9d755c9d39ef378e8f2e
-SHA1: 10a62cad86e4ef219e88dad810e36ac49235658f
-SHA256: 9a9deef89121672e6b3fd6702f86cf1600a1367f33104efb9e5280319fb3f1b0
-SHA512: c6f958eddf220d3f11f2e2d33de6250263986d80354a8d875b33b69bc5374e36f2b18edf11bb1d80e60efa9212283aa0d1ec7daaf4d9e55a7221cb90758f89fe
+Installed-Size: 15200
+Filename: https://github.com/wcbing-deb-packager/frp-debs/releases/download/v0.72.0/frpc_0.72.0+1_arm64.deb
+Size: 4231596
+MD5sum: aa2b39d4c09048cc769e5ab846bb5cca
+SHA1: 15f8f34106a6a4bc6345b7bc83ab31d7a0069520
+SHA256: d74c53bc6b13d182fbf734edd2e2c3d24d9f160753f7b7a991a3466d7c33d0e9
+SHA512: 1dafec596159481d48b49eda60539ea776c6d69f95d017348577c9b5f0304c0ba8ec13359c9cb390a408b2e622cbbb73b3193a8fe73f75c154a8e180ac3bdbd9
 Homepage: https://gofrp.org/
 Description: A fast reverse proxy to help you expose a local server
  behind a NAT or firewall to the internet.
