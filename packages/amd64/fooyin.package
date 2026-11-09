@@ -1,10 +1,10 @@
 Package: fooyin
 Architecture: amd64
-Version: 0.14.1-1~debian.13~trixie
+Version: 0.15.0-1~debian.13~trixie
 Priority: optional
 Section: sound
 Maintainer: Luke Taylor <luket@pm.me>
-Installed-Size: 39976
+Installed-Size: 42264
 Depends: libc6,
     libstdc++6,
     libqt6sql6-sqlite (>= 6.4.0),
@@ -27,12 +27,12 @@ Depends: libc6,
     libvorbisfile3,
     libsoundtouch1,
     libsoxr0, libicu76, libtag2, libflac14, libmpg123-0t64, libqt6core6t64 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.4.0), libqt6network6 (>= 6.4.0), libqt6concurrent6 (>= 6.4.0), libqt6sql6 (>= 6.4.0), libqcoro6core0t64, libqcoro6network0t64
-Filename: https://github.com/fooyin/fooyin/releases/download/v0.14.1/fooyin_0.14.1-trixie_amd64.deb
-Size: 13697092
-MD5sum: 6acf36b2426b82cf1537782e568be599
-SHA1: 35b25b63663751269e8e06951346a3ee9bcdd93d
-SHA256: 96b4b52fff41071cb203da457d7e078a03328846545b8ba8db1c409f4f53d8e4
-SHA512: c689318e3e2fb511bb38ce039c0aa7ff5b4608175d36972f6e97ccb4658da60a176b8baaef4da63a3651533f8208af01602fcf172db1fb736fb0b86c127209d5
+Filename: https://github.com/fooyin/fooyin/releases/download/v0.15.0/fooyin_0.15.0-trixie_amd64.deb
+Size: 14511054
+MD5sum: 2f3c8a4d447fed406d04e85e3df13801
+SHA1: ac39edfb1499f493e625cf910f5c8a0307b00d6d
+SHA256: 11069704a43cea04c1a5cd7419ec7ba915c44f93479837e5675fff614a68274c
+SHA512: e05584cae8f3a4a737438e6451be388411a15bee6d41c4402882f4ea16527b9556b35f77fba4fe79e4a74e2257203e55db408634bf022b04af45492739dded5a
 Homepage: https://www.fooyin.org
 Description: A customisable music player
 
