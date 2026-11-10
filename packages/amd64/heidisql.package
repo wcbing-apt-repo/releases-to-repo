@@ -1,0 +1,27 @@
+Package: heidisql
+Architecture: amd64
+Version: 12.22
+Priority: optional
+Section: database
+Maintainer: Ansgar Becker <anse@heidisql.com>
+Depends: libqt6widgets6, libqt6gui6, libqt6core6, libqt6pas6,
+ libssl3 (>= 3.0.0),
+ libmariadb-dev | libmysqlclient-dev,
+ libpq5, libsqlite3-0, libsybdb5,
+ libfbclient2
+Recommends: openssh-client
+Filename: https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.22/heidisql_12.22_amd64.deb
+Size: 7307976
+MD5sum: 812e9bbf16ee9375b2ccd23100b3937e
+SHA1: 2b0ae45bd7ace471a46f5e54118e9fe97db5f471
+SHA256: d4519c1576b12ef9a5e7d524cf5a430289a8b0e1f75ee5876228dc887e5e2e15
+SHA512: 2eb3a7f931c29c328051148275f5c7277053f369bca404a21025717c5e619ed7a6d047b7b13b2930f6327c4dc34aabeda5080bab44d493376e7deff1ffecbffd
+Homepage: https://www.heidisql.com
+Description: Powerful SQL client for everyday database work
+ HeidiSQL is a popular desktop tool for developers and DBAs who live in SQL all
+ day. Connect to MariaDB, MySQL, PostgreSQL, Microsoft SQL Server, SQLite,
+ Interbase and Firebird from one clean, fast GUI. Browse and edit data, design
+ and refactor tables, run and save queries, and quickly fix issues on live
+ systems. Started in 2002 and still actively maintained, HeidiSQL focuses on
+ getting everyday database tasks done with as little friction as possible.
+
