@@ -230,6 +230,12 @@
             "arm64": "grpcurl_{version}_linux_arm64.deb"
         }
     },
+    "heidisql": {
+        "repo": "HeidiSQL/HeidiSQL",
+        "file_list": {
+            "amd64": "heidisql_12.22_amd64.deb"
+        }
+    },
     "heroic": {
         "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
         "file_list": {

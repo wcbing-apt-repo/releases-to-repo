@@ -56,6 +56,7 @@ sudo apt update
 | frpc-desktop | [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) | ✅ | ✅ |
 | ghost-downloader | [Ghost-Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) | ✅ | ✅ |
 | grpcurl | [gRPCurl](https://github.com/fullstorydev/grpcurl) | ✅ | ✅ |
+| heidisql | [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) | ✅ | |
 | heroic | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | ✅ | |
 | hiddify | [Hiddify](https://github.com/hiddify/hiddify-app) | ✅ | |
 | himalaya | [Himalaya](https://github.com/wcbing-deb-packager/himalaya-debs)* | ✅ | ✅ |
