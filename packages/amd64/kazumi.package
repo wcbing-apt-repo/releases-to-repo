@@ -1,6 +1,6 @@
 Package: Kazumi
 Architecture: amd64
-Version: 2.4.3
+Version: 2.4.4
 Priority: optional
 Essential: no
 Section: x11
@@ -10,12 +10,12 @@ Depends: libayatana-appindicator3-1,
          gir1.2-ayatanaappindicator3-0.1,
          libwebkit2gtk-4.1-0,
          libva-wayland2
-Filename: https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_linux_2.4.3_amd64.deb
-Size: 35371710
-MD5sum: a2fd085ef36e9cbb07d5367cb1a49f77
-SHA1: c6620d88b74e2f3bb9a4eace1270e4cf3bdbf49d
-SHA256: dc177348ce0c2ebde8456f3a69aeb307c8f29f7a800906a06504cf790aaac489
-SHA512: 3873cafc09ff0eaab284a7b9c994fbb6e9189b9d888c0884498057c54e74f4acef5d75619d8e764e28b51fb9f6a3577f382e082f6c2e06d22476cc6a8bc25ce7
+Filename: https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_linux_2.4.4_amd64.deb
+Size: 35203998
+MD5sum: b5780225c2e2dc7fa0288401e492fe0f
+SHA1: b16f36942589785b297d6c368bfb3d03827eb232
+SHA256: 1f8fb801fa724ff920d71ce8f27694ff058781b89dfe571651e7df45e000715f
+SHA512: 6e9f92f12dba0f6f3bcf05519ac64c60d433d601cafdfea8286b78f3be786d13a5bec09e49d6e1c7e32a0b6e527de1f33cb63c37edabdd69795b96c370790862
 Homepage: https://github.com/Predidit/Kazumi
 Description: Watch Animes online with danmaku support.
 
