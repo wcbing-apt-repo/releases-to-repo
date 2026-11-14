@@ -1,18 +1,18 @@
 Package: reaper-installer
 Architecture: arm64
-Version: 7.85
+Version: 7.86
 Priority: optional
 Section: contrib/sound
 Maintainer: Huayuluoshi <2318494274@qq.com>
 Installed-Size: 20000
 Depends: wget | curl, tar, xz-utils, desktop-file-utils, xdg-utils
 Recommends: ca-certificates
-Filename: https://github.com/Huayuluoshi/reaper-installer/releases/download/v7.85/reaper-installer_7.85_arm64.deb
-Size: 4648
-MD5sum: 74613f10f257733d19561cb600405c68
-SHA1: c4a36e4ced38d12dbb0968e66aad6d13564011ee
-SHA256: a39d9ecf1bed582c3dca704aa47827f16b3b9a045b1743fe4caac29c6e2b3a01
-SHA512: 902a24ed01e2f29f2f6e9d7f9b41d74c8d8bb995f235c18174585e6bdd1255b88a5c97eddfb4b8aa178cc0124a6b420730344ce2cd8f638489d7ba67e636c19b
+Filename: https://github.com/Huayuluoshi/reaper-installer/releases/download/v7.86/reaper-installer_7.86_arm64.deb
+Size: 4652
+MD5sum: d8961d5b8133b95f6649e39c08d66418
+SHA1: 67094969e0e755f61b4cce2194db99992d5e339d
+SHA256: c7d8edd648ec7f79867eaa91e5b30964ce4c09acc83877b12f842e9591841a95
+SHA512: cbaccc7750c15cb1a2587873ac51ee129d0494dc4f4ccba73688d3f97cc8a2731d5e58d836ee019a996b957f3d55c7ca3fb31011c31f1067e5da1e272eab3f0d
 Description: REAPER installer wrapper (downloads and runs official Linux installer)
  This package does not contain REAPER itself. During configuration (postinst),
  it downloads the official REAPER Linux tarball matching the host architecture
