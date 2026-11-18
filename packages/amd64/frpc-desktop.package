@@ -1,16 +1,16 @@
 Package: frpc-desktop
 Architecture: amd64
-Version: 2.0.2
+Version: 2.0.3
 Priority: optional
 Maintainer: luckjiawei
-Installed-Size: 29077
+Installed-Size: 29156
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.2/Frpc-Desktop_2.0.2_amd64.deb
-Size: 9006454
-MD5sum: bef4c9140e1985d0d9ab27c7db7ed813
-SHA1: d0a745b3b71570599da56c14d4674efe89aba817
-SHA256: 3566ef546085d73ddfb07364d5bbcea0c0663dbab84c354f9e0c08e56012f128
-SHA512: b48498cd2dd0432557e1560eed889cfad24e1ab4b757745918a90ec455a068007b4f1914eee1797ba0df6346fb5ae39043b0368fb9d48e9035d328370fe866c4
+Filename: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.3/Frpc-Desktop_2.0.3_amd64.deb
+Size: 9040896
+MD5sum: ee4794742c13b979e418f3651e966c6b
+SHA1: 79938c10802a651c86320bccaebdd3dce83053d6
+SHA256: 3f325edacdc191f9b22c9838705547d95cd0b9154fd8df4c94137a417506a93a
+SHA512: e2d57be0391844eebf9842bc9aa4a9d10c7487cf23c8f0fd4e648e2b7dcff20a64f1e2fae138a559a6885784d70b070d70d8992072f5532eb899ff2b1abe5fde
 Description: FRP Desktop Client
  (none)
 
