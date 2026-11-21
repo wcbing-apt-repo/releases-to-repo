@@ -1,16 +1,16 @@
 Package: superfile
 Architecture: arm64
-Version: 1.6.0+1
+Version: 1.6.1+1
 Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 25364
-Filename: https://github.com/wcbing-deb-packager/superfile-debs/releases/download/v1.6.0/superfile_1.6.0+1_arm64.deb
-Size: 10413664
-MD5sum: 7b2c4370099fff071908b593798a2706
-SHA1: 07cedc5cadb1cc5f9a471e00e58908bac4401e01
-SHA256: 20e8a91c1459ae96ea23466cf9ebb37928d06e13eb267c3b2b14edcfe7610fbe
-SHA512: 34c7a4f7cbc789597c871a46cdb8429eb7e7a28cfdb7bff0c92025acc0068084b82e3e5253895ce3b275b3402466c62ee12ce9f031a47b746c5d97dafb444e42
+Installed-Size: 27004
+Filename: https://github.com/wcbing-deb-packager/superfile-debs/releases/download/v1.6.1/superfile_1.6.1+1_arm64.deb
+Size: 11151084
+MD5sum: 630576645c105866ea43ca17c20312f7
+SHA1: 70ca900a9aec0040089f4e020bede763221983b7
+SHA256: 189a92819d9688a90014c860117c0f38aa184480c7744f8bfe935c909e444d71
+SHA512: dc3d7611bf50d587a8a8152372451ee15d4f558786c1cc9d057113e850311dac75951e6bdf076cae1e98d42070d94eb6d77dbf79acc5ad2ba104b6e4c9fc7a5c
 Homepage: https://github.com/yorukot/superfile
 Description: Perfect Terminal-based file manager!
  superfile is a very fancy and modern terminal file manager
