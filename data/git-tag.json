@@ -60,7 +60,7 @@
     "powershell": "v7.7.0",
     "kula": "0.22.0",
     "edrlab.thoriumreader": "v3.5.1",
-    "easypostman": "v6.3.3",
+    "easypostman": "v6.3.4",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.3",
     "xmcl": "v0.73.1",
@@ -88,11 +88,11 @@
     "dbx": "v0.6.72",
     "v2raya": "v2.5.16",
     "v2rayn": "7.25.6",
-    "cc-switch": "v4.0.37",
+    "cc-switch": "v4.0.38",
     "fresco": "v1.1.55",
     "reqable": "3.3.14",
     "rayburst": "v4.1.2",
     "reaper-installer": "v7.86",
-    "kazumi": "2.4.4",
+    "kazumi": "2.4.5",
     "heidisql": "v12.22"
 }
