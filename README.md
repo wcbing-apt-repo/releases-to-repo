@@ -110,6 +110,7 @@ sudo apt update
 | xmcl | [X Minecraft Launcher](https://github.com/Voxelum/x-minecraft-launcher) | ✅ | ✅ |
 | yazi | [Yazi](https://github.com/sxyazi/yazi) | ✅ | ✅ |
 | yesplaymusic | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | ✅ | ✅ |
+| yetease-music | [YetEase Music](https://github.com/Gloridust/YetEaseMusic) | ✅ | |
 | zyfun | [zyfun[ZyPlayer]](https://github.com/Hiram-Wong/ZyPlayer) | ✅ | ✅ |
 
 
