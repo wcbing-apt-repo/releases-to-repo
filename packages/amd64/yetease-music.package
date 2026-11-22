@@ -1,0 +1,21 @@
+Package: yetease-music
+Architecture: amd64
+Version: 0.2.14
+Priority: optional
+Section: sound
+Maintainer: YetEase Music <yetease@users.noreply.github.com>
+Installed-Size: 58864
+Depends: libc6 (>= 2.34), libgtk-3-0t64 | libgtk-3-0, libasound2t64 | libasound2, ca-certificates
+Filename: https://github.com/Gloridust/YetEaseMusic/releases/download/v0.2.14/yetease-music_0.2.14_amd64.deb
+Size: 18604108
+MD5sum: 88129fb91149d2ea58953478cf79f877
+SHA1: c82a50463899847d196e2d83c76b26c640554e26
+SHA256: 7eeabb985b333730f6b0223b214171188a1da293e0a85357af610ffa0e78b12e
+SHA512: 3de64c4ce65dc71438765612bd61f782ac2f16921d5e02cc1a47eda44ba67b0f5709b28157597353cae07d36ee231a632ab9a8507f6c46ffea12f7b5fd4f15f0
+Homepage: https://github.com/Gloridust/YetEaseMusic
+Description: Fast, clean third-party client for NetEase Cloud Music
+ YetEase Music (网易云音乐Yet) is an unofficial NetEase Cloud Music client
+ with a Rust core and a Flutter UI. It talks to the official API directly,
+ with no third-party servers and no ads. Includes the desktop app
+ (yetease-music) and the command-line / terminal UI client (yetease).
+

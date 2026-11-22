@@ -93,6 +93,8 @@
     "reqable": "3.3.14",
     "rayburst": "v4.1.2",
     "reaper-installer": "v7.86",
-    "kazumi": "2.4.5",
-    "heidisql": "v12.22"
+    "kazumi": "2.4.6",
+    "heidisql": "v12.22",
+    "linux-wifi-hotspot": "v5.0.0",
+    "yetease-music": "v0.2.14"
 }

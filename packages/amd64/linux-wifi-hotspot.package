@@ -1,0 +1,18 @@
+Package: linux-wifi-hotspot
+Architecture: amd64
+Version: 5.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Maintainer: Lakindu Akash <lakinduakash@users.noreply.github.com>
+Installed-Size: 308
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.76.0), libgtk-3-0t64 (>= 3.16.2), libpng16-16t64 (>= 1.6.46), libqrencode4 (>= 4.0), libstdc++6 (>= 13.1), libx11-6, hostapd (>= 2.0), iw (>= 5.4), iproute2 (>= 5.0), util-linux (>= 2.3), procps (>= 3.3), libpng16-16 (>= 1.6)
+Filename: https://github.com/lakinduakash/linux-wifi-hotspot/releases/download/v5.0.0/linux-wifi-hotspot_5.0.0_amd64.deb
+Size: 97488
+MD5sum: 8bd785dcef5b1b5efa0518c2622590a5
+SHA1: 6d1407363f14ce73454895d7408818d7a78a11d0
+SHA256: efb70cd67293d6da4ab935e4639eb05a3459f3f37ec1484bd701b0ff4c30330b
+SHA512: 9e63231afe6ec11eea7b1f491157a694d6b425c28c9a871640e75ae0ad4e8927141f27b3bfaa7266b186bd241fa4176ad0b89b5a4ba67c8a66c6e056d51ff5c4
+Homepage: https://github.com/lakinduakash/linux-wifi-hotspot
+Description: GUI tool for creating virtual hotspots using the same wi-fi card that is already connected to an access point.
+
