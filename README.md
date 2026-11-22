@@ -68,6 +68,7 @@ sudo apt update
 | kula | [Kula](https://github.com/c0m4r/kula) | ✅ | ✅ |
 | lazydocker | [Lazydocker](https://github.com/wcbing-deb-packager/lazydocker-debs)* | ✅ | ✅ |
 | lazygit | [Lazygit](https://github.com/wcbing-deb-packager/lazygit-debs)* | ✅ | ✅ |
+| linux-wifi-hotspot | [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | ✅ | |
 | localsend | [LocalSend](https://github.com/localsend/localsend) | ✅ | ✅ |
 | marktext | [MarkText](https://github.com/marktext/marktext) | ✅ | |
 | mihomo | [mihomo](https://github.com/MetaCubeX/mihomo) | ✅ | ✅ |

@@ -309,6 +309,12 @@
             "arm64": "lazygit_{version}+1_arm64.deb"
         }
     },
+    "linux-wifi-hotspot": {
+        "repo": "lakinduakash/linux-wifi-hotspot",
+        "file_list": {
+            "amd64": "linux-wifi-hotspot_{version}_amd64.deb"
+        }
+    },
     "localsend": {
         "repo": "localsend/localsend",
         "file_list": {
