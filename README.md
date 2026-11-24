@@ -72,6 +72,7 @@ sudo apt update
 | localsend | [LocalSend](https://github.com/localsend/localsend) | ✅ | ✅ |
 | marktext | [MarkText](https://github.com/marktext/marktext) | ✅ | |
 | mihomo | [mihomo](https://github.com/MetaCubeX/mihomo) | ✅ | ✅ |
+| motrix | [Motrix](https://github.com/agalwood/Motrix) | ✅ | ✅ |
 | mqttx | [MQTTX](https://github.com/emqx/MQTTX) | ✅ | ✅ |
 | msedit | [Microsoft Edit](https://github.com/wcbing-deb-packager/msedit-debs)* | ✅ | ✅ |
 | musicfree | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | ✅ | |
@@ -126,7 +127,6 @@ sudo apt update
 | bongo-cat | [BongoCat](https://github.com/ayangweb/BongoCat) | ✅ | ✅ |
 | filebrowser | [File Browser](https://github.com/wcbing-deb-packager/filebrowser-debs)* | ✅ | ✅ |
 | flameshot | [Flameshot](https://github.com/flameshot-org/flameshot) | ✅ | ✅ |
-| motrix | [Motrix](https://github.com/agalwood/Motrix) | ✅ | ✅ |
 | motrix-next | [Motrix Next](https://github.com/AnInsomniacy/motrix-next) <br>改名为 Rayburst | ✅ | ✅ |
 | splayer | [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | ✅ | ✅ |
 | sunnycapturer | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer) | ✅ | |

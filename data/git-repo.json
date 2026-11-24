@@ -335,11 +335,11 @@
             "arm64": "mihomo-linux-arm64-{releases_tag}.deb"
         }
     },
-    "rayburst": {
-        "repo": "AnInsomniacy/rayburst",
+    "motrix": {
+        "repo": "agalwood/Motrix",
         "file_list": {
-            "amd64": "Rayburst_{version}_amd64.deb",
-            "arm64": "Rayburst_{version}_arm64.deb"
+            "amd64": "Motrix_{version}_amd64.deb",
+            "arm64": "Motrix_{version}_arm64.deb"
         }
     },
     "mqttx": {
@@ -436,6 +436,13 @@
         "repo": "PowerShell/PowerShell",
         "file_list": {
             "amd64": "powershell_{version}-1.deb_amd64.deb"
+        }
+    },
+    "rayburst": {
+        "repo": "AnInsomniacy/rayburst",
+        "file_list": {
+            "amd64": "Rayburst_{version}_amd64.deb",
+            "arm64": "Rayburst_{version}_arm64.deb"
         }
     },
     "rclone": {
