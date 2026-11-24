@@ -1,19 +1,19 @@
 Package: localsend
 Architecture: arm64
-Version: 1.18.2+64
+Version: 1.19.0+65
 Priority: optional
 Essential: no
 Section: x11
 Maintainer: Tienisto <dev.tien.donam@gmail.com>
 Installed-Size: 30600
-Pre-Depends: libc6 (>= 2.31)
-Depends: libappindicator3-1 | libayatana-appindicator3-1, gir1.2-appindicator3-0.1 | gir1.2-ayatanaappindicator3-0.1, libayatana-ido3-0.4-0, xdg-user-dirs
-Filename: https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb
-Size: 24662482
-MD5sum: 853972fd1ef681b2dc8dd94c792e3e03
-SHA1: 5c5e005eaa2e9b0a84ebc11d53777f3dffa9c985
-SHA256: bbd8347b7979f936d3bae176a3f0d9b81431605707c585270d6240f7670feb1f
-SHA512: 937e33fab316b6abbe9f2ecbb6c31062eb58c454efe62226b05992302117938175bf7e6615ee5a7ec2641385f43bad9056b9d133b72fe8753a6a45d793e52f06
+Pre-Depends: libc6 (>= 2.34)
+Depends: libayatana-appindicator3-1, libayatana-ido3-0.4-0, libegl1, libgles2, xdg-user-dirs
+Filename: https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-arm-64.deb
+Size: 24608686
+MD5sum: 798faf8c0b0043da3df0880e3bda87e7
+SHA1: fa52e9112ae142c1203162e117dae4d21c573240
+SHA256: 8a54f1dc0f70ef4d9fa3037a29e8713d5580c461675fae9a5ba59b39010513c3
+SHA512: c9fe92cfd5bf8a2b0889af6f1fe21654eda978932db661f4cab1521350860ed6ade37f38947719d47b0cde0cc9bd6f9e846737c79a7d3c4c1ac61ecc9bed4b77
 Homepage: https://localsend.org/
 Description: An open source cross-platform alternative to AirDrop
 Uploaders: TheGB0077 <gb.lima.dev@gmail.com>
