@@ -1,21 +1,21 @@
 Package: motrix
 Architecture: arm64
-Version: 2.4.5
+Version: 2.4.7
 Priority: optional
 Section: default
 Maintainer: Dr_rOot <agalwood.net@gmail.com>
-Installed-Size: 332299
+Installed-Size: 331960
 Provides: motrix-turbo
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Conflicts: motrix-turbo
 Replaces: motrix-turbo
-Filename: https://github.com/agalwood/Motrix/releases/download/v2.4.5/Motrix_2.4.5_arm64.deb
-Size: 107635796
-MD5sum: b93b380d0b6764495bbe91d7c5ede2c0
-SHA1: 35f47e56b6993320d930f74e31dfaf525da7856a
-SHA256: 914b8949a99029cad4b08c9966ec7a8779fd833c97f3b1df20a018cbe110cc34
-SHA512: d5f65302cdefd5fe047ef91486c7bef73c0394e80050bc92781645833910fe4d9b094dff03f96f09362a0e8b0a6e7035cae25500b9d6474831ef81c511caf872
+Filename: https://github.com/agalwood/Motrix/releases/download/v2.4.7/Motrix_2.4.7_arm64.deb
+Size: 107574528
+MD5sum: 4f2396f98779b14a294e14b7a8580070
+SHA1: c0d48c8bcd474f6beeb235e089746a108d218d11
+SHA256: 81826848ff2637336e028d1ef9fe636de49fabe62651984b11f7781dba03dcf0
+SHA512: 226793c45cbb68837e405956b6c9a82f50ac0f6453a2930eaa78300041dde7b5d1e35f1a80f6ff9ec46f86762e2144ca62529ce0487f09b4e4355a733cfbb32a
 Homepage: https://motrix.app
 Description: Full-featured download manager
   Motrix is a full-featured download manager that supports HTTP, FTP, BitTorrent and Magnet downloads.
